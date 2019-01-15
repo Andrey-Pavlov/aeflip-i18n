@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en" datatype="plaintext" original="ng2.template">
     <body>
@@ -58,90 +58,48 @@
           <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="landing_add" datatype="html">
-        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>e<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>dd</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">3</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="landing_edit" datatype="html">
-        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>a<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>dit</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">3</context>
-        </context-group>
-      </trans-unit>
+      
+      
       <trans-unit id="landing_train" datatype="html">
         <source>Train</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">3</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">13</context></context-group></trans-unit>
       <trans-unit id="landing_repeat" datatype="html">
         <source>Repeat</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">3</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">15</context></context-group></trans-unit>
       <trans-unit id="landing_description" datatype="html">
-        <source>The single place where you learn words.</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">4</context>
-        </context-group>
-      </trans-unit>
+        <source>Finally, a centralized place to learn and train your foreign words.</source><target state="final">Finally, a centralized place to learn and train your foreign words.</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">18</context></context-group></trans-unit>
       <trans-unit id="landing_login" datatype="html">
         <source>Login</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">6</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">22</context></context-group></trans-unit>
       <trans-unit id="landing_register" datatype="html">
         <source>Register</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">7</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">25</context></context-group></trans-unit>
       <trans-unit id="landing_words" datatype="html">
         <source>Words</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">11</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">31</context></context-group></trans-unit>
       <trans-unit id="landing_users" datatype="html">
         <source>Users</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">12</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">34</context></context-group></trans-unit>
       <trans-unit id="landing_words-waiting-training" datatype="html">
         <source>Words are waiting for training</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">13</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">37</context></context-group></trans-unit>
       <trans-unit id="landing_words-in-queue" datatype="html">
         <source>Words in queue</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">14</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">40</context></context-group></trans-unit>
       <trans-unit id="landing_words-completed" datatype="html">
         <source>Words completed</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/landing/landing.component.html</context>
-          <context context-type="linenumber">15</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">43</context></context-group></trans-unit>
     </body>
   </file>
 </xliff>
