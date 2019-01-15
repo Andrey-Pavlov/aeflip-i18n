@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en">
+    <body>
+      <trans-unit id="app_logout">
+        <source>Logout</source>
+        <target>Выйти</target>
+      </trans-unit>
+      <trans-unit id="app_login">
+        <source>Login</source>
+        <target>Войти</target>
+      </trans-unit>
+      <trans-unit id="app_register">
+        <source>Register</source>
+        <target>Регистрация</target>
+      </trans-unit>
+      <trans-unit id="app_addwords">
+        <source>Add words</source>
+        <target>Добавить слова</target>
+      </trans-unit>
+      <trans-unit id="app_training">
+        <source>Training</source>
+        <target>Тренировать</target>
+      </trans-unit>
+      <trans-unit id="app_mywords">
+        <source>My Words</source>
+        <target>Мои слова</target>
+      </trans-unit>
+      <trans-unit id="app_users">
+        <source>Users</source>
+        <target>Пользователи</target>
+      </trans-unit>
+      <trans-unit id="app_words">
+        <source>Words</source>
+        <target>Слова</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
