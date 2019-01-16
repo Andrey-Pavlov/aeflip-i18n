@@ -2,7 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en">
     <body>
-      <trans-unit id="app_logout">
+      <trans-unit id="app_feedback" datatype="html">
+        <source>FEEDBACK</source><target state="new">ОТЗЫВ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit><trans-unit id="app_logout">
         <source>Logout</source>
         <target>Выйти</target>
       <context-group purpose="location"><context context-type="sourcefile">app/app.component.html</context><context context-type="linenumber">17</context></context-group></trans-unit>
@@ -40,7 +46,7 @@
         <source>Repeat</source><target state="new">Повторяй</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">15</context></context-group></trans-unit><trans-unit id="landing_description" datatype="html">
-        <source>Finally, a centralized place to learn and train your foreign words.</source><target state="new">Наконец-то, централизованное место для изучения и тренировки наших иностранных слов.</target>
+        <source>aFinally, a centralized place to learn and train your foreign words.</source><target state="new">Наконец-то, централизованное место для изучения и тренировки наших иностранных слов.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">18</context></context-group></trans-unit><trans-unit id="landing_login" datatype="html">
         <source>Login</source><target state="new">Войти</target>
@@ -63,7 +69,21 @@
       <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">40</context></context-group></trans-unit><trans-unit id="landing_words-completed" datatype="html">
         <source>Words completed</source><target state="new">Выученных слов</target>
         
-      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">43</context></context-group></trans-unit>
+      <context-group purpose="location"><context context-type="sourcefile">app/landing/landing.component.html</context><context context-type="linenumber">43</context></context-group></trans-unit><trans-unit id="footer_about" datatype="html">
+        <source>About</source><target state="new">О проекте</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer/footer.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit><trans-unit id="footer_contacts" datatype="html">
+        <source>
+    Contacts</source><target state="new">
+    Связаться с нами</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer/footer.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
     </body>
   </file>
 </xliff>
