@@ -1,0 +1,107 @@
+{
+	"ABOUT": {
+		"BYE": "Спасибо, что заглянули!",
+		"DESCRIPTION": "Мы (вдвоем) делаем это приложение чтобы помочь изучать иностранные языки. Это всего лишь хороший инструмент и он не научит вас языку, также как и другие сайты и ресурсы, которые Вам это обещают. Только Вы сами можете научить себя через труд и время. Будем очень признательны за любой |отзыв или пожелание|, которые помогут нам улучшить данный ресурс.",
+		"HELLO": "Здравствуйте!"
+	},
+	"ADD_CARD_IMAGE": {
+		"CANCEL": "",
+		"DELETE": "",
+		"EDIT": "",
+		"SAVE": "",
+		"URL_REQUIRED": ""
+	},
+	"APP": {
+		"ADD_WORDS": "Добавить слова",
+		"FEEDBACK": "ОТЗЫВ",
+		"LOGIN": "Войти",
+		"LOGOUT": "Выйти",
+		"MY_WORDS": "Мои слова",
+		"REGISTER": "Регистрация",
+		"TRAINING": "Тренировать",
+		"USERS": "Пользователи",
+		"WORDS": "Слова"
+	},
+	"COMMENT": {
+		"CANCEL": "",
+		"LIKE": "",
+		"POST": "",
+		"REPLY": ""
+	},
+	"CONFIRM": {
+		"NO": "",
+		"SURE": "",
+		"YES": ""
+	},
+	"CONTACTS": {
+		"EMAIL": "",
+		"TELEGRAM": ""
+	},
+	"FEEDBACK": {
+		"POST": ""
+	},
+	"FOOTER": {
+		"ABOUT": "О проекте",
+		"CONTACTS": "Связаться с нами"
+	},
+	"LANDING": {
+		"DESCRIPTION": "Наконец-то, централизованное место для изучения и тренировки наших иностранных слов.",
+		"LOGIN": "Войти",
+		"REGISTER": "Зарегистрироваться",
+		"REPEAT": "Повторяй",
+		"TRAIN": "Тренируй",
+		"USERS": "Пользователи",
+		"WORDS": "Слова",
+		"WORDS_COMPLETED": "Выученных слов",
+		"WORDS_IN_QUEUE": "Слов в ожидании",
+		"WORDS_WAITING_TRAINING": "Слов для тренировки"
+	},
+	"LOGIN": {
+		"EMAIL": "",
+		"LOGIN": "",
+		"PASSWORD": ""
+	},
+	"NO-CONTENT": {
+		"HEADER": "",
+		"SUB-HEADER": ""
+	},
+	"NO-RESULTS": {
+		"FOUND": "",
+		"MESSAGE": ""
+	},
+	"REGISTER": {
+		"DISPLAY_NAME": "",
+		"EMAIL": "",
+		"PASSWORD": "",
+		"REGISTER": ""
+	},
+	"TRAINING_ACTIVE": {
+		"DONT_REMEMBER": "",
+		"REMEMBER": ""
+	},
+	"USERS": {
+		"NAME": "",
+		"NUMBER": ""
+	},
+	"USERWORDS": {
+		"TOTAL_USERS": "",
+		"WORD": ""
+	},
+	"WORDS-LIST": {
+		"TABLE": {
+			"ACTIONS": "",
+			"ADD": "",
+			"COUNT": "",
+			"IGNORE": "",
+			"WORD": ""
+		}
+	},
+	"WORDS": {
+		"TOTAL_USERS": "",
+		"WORD": ""
+	},
+	"WORDS_LIST": {
+		"ADD_SELECTED_WORDS": "",
+		"SUBMIT": ""
+	}
+}

@@ -1,0 +1,107 @@
+{
+	"ABOUT": {
+		"BYE": "Thank you for visiting!",
+		"DESCRIPTION": "[AutoTranslate]: We (together) make this application to help learn foreign languages. It’s just a good tool and it’s not teach you the language, as well as other sites and resources that promise you that. Only you yourself can teach yourself through labor and time. We would be very grateful for any |feedback or request| that help us improve this resource.",
+		"HELLO": "Hi!"
+	},
+	"ADD_CARD_IMAGE": {
+		"CANCEL": "Cancel",
+		"DELETE": "Delete",
+		"EDIT": "Edit",
+		"SAVE": "Save",
+		"URL_REQUIRED": "Url is required"
+	},
+	"APP": {
+		"ADD_WORDS": "Add words",
+		"FEEDBACK": "FEEDBACK",
+		"LOGIN": "Login",
+		"LOGOUT": "Logout",
+		"MY_WORDS": "My Words",
+		"REGISTER": "Register",
+		"TRAINING": "Training",
+		"USERS": "Users",
+		"WORDS": "Words"
+	},
+	"COMMENT": {
+		"CANCEL": "Cancel",
+		"LIKE": "Like",
+		"POST": "Post",
+		"REPLY": "Reply"
+	},
+	"CONFIRM": {
+		"NO": "No",
+		"SURE": "Are you sure?",
+		"YES": "Yes"
+	},
+	"CONTACTS": {
+		"EMAIL": "Email",
+		"TELEGRAM": "Telegram"
+	},
+	"FEEDBACK": {
+		"POST": "Post"
+	},
+	"FOOTER": {
+		"ABOUT": "About",
+		"CONTACTS": "Contacts"
+	},
+	"LANDING": {
+		"DESCRIPTION": "Finally, a centralized place to learn and train your foreign words.",
+		"LOGIN": "Login",
+		"REGISTER": "Register",
+		"REPEAT": "Repeat",
+		"TRAIN": "Train",
+		"USERS": "Users",
+		"WORDS": "Words",
+		"WORDS_COMPLETED": "Words completed",
+		"WORDS_IN_QUEUE": "Words in queue",
+		"WORDS_WAITING_TRAINING": "Words are waiting for training"
+	},
+	"LOGIN": {
+		"EMAIL": "Email",
+		"LOGIN": "Login",
+		"PASSWORD": "Password"
+	},
+	"NO-CONTENT": {
+		"HEADER": "Oops, that can't be right",
+		"SUB-HEADER": "The page you are looking for cannot be found. Click here to return |back| or to |the home page|."
+	},
+	"NO-RESULTS": {
+		"FOUND": "0 results found",
+		"MESSAGE": "Sorry! We couldn't find any results."
+	},
+	"REGISTER": {
+		"DISPLAY_NAME": "Display Name",
+		"EMAIL": "Email",
+		"PASSWORD": "Password",
+		"REGISTER": "Register"
+	},
+	"TRAINING_ACTIVE": {
+		"DONT_REMEMBER": "DON'T REMEMBER",
+		"REMEMBER": "REMEMBER"
+	},
+	"USERS": {
+		"NAME": "Name",
+		"NUMBER": "No."
+	},
+	"USERWORDS": {
+		"TOTAL_USERS": "Total users",
+		"WORD": "Word"
+	},
+	"WORDS-LIST": {
+		"TABLE": {
+			"ACTIONS": "Actions",
+			"ADD": "Add",
+			"COUNT": "Count",
+			"IGNORE": "Ignore",
+			"WORD": "Word"
+		}
+	},
+	"WORDS": {
+		"TOTAL_USERS": "Total users",
+		"WORD": "Word"
+	},
+	"WORDS_LIST": {
+		"ADD_SELECTED_WORDS": "Add selected words",
+		"SUBMIT": "Refine words"
+	}
+}
