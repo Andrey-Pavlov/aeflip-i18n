@@ -8,6 +8,7 @@
 		"CANCEL": "Cancel",
 		"DELETE": "Delete",
 		"EDIT": "Edit",
+		"IMAGE_URL": "Image url",
 		"SAVE": "Save",
 		"URL_REQUIRED": "Url is required"
 	},
@@ -24,6 +25,7 @@
 	},
 	"COMMENT": {
 		"CANCEL": "Cancel",
+		"COMMENT": "Commentary",
 		"LIKE": "Like",
 		"POST": "Post",
 		"REPLY": "Reply"
@@ -38,6 +40,7 @@
 		"TELEGRAM": "Telegram"
 	},
 	"FEEDBACK": {
+		"FEEDBACK": "Feedback",
 		"POST": "Post"
 	},
 	"FOOTER": {
@@ -61,7 +64,16 @@
 	"LOGIN": {
 		"EMAIL": "Email",
 		"LOGIN": "Login",
-		"PASSWORD": "Password"
+		"PASSWORD": "Password",
+		"VALIDATION_ERROR": {
+			"EMAIL": {
+				"REQUIRED": "Email is required",
+				"VALID": "Please enter a valid email address"
+			},
+			"PASSWORD": {
+				"REQUIRED": "Password is required"
+			}
+		}
 	},
 	"NO-CONTENT": {
 		"HEADER": "Oops, that can't be right",
@@ -75,10 +87,32 @@
 		"DISPLAY_NAME": "Display Name",
 		"EMAIL": "Email",
 		"PASSWORD": "Password",
-		"REGISTER": "Register"
+		"REGISTER": "Register",
+		"VALIDATION_ERROR": {
+			"DISPAY_NAME": {
+				"REQUIRED": "Display name is required"
+			},
+			"EMAIL": {
+				"REQUIRED": "Email is required",
+				"VALID": "Please enter a valid email address"
+			},
+			"PASSWORD": {
+				"REQUIRED": "Password is required"
+			}
+		}
+	},
+	"TRAINING": {
+		"LINK": {
+			"ACTIVE": "Active",
+			"ALL": "All",
+			"COMPLETED": "Completed",
+			"QUEUE": "Queue"
+		}
 	},
 	"TRAINING_ACTIVE": {
+		"ACTIVE": "Active",
 		"DONT_REMEMBER": "DON'T REMEMBER",
+		"INACTIVE": "Inactive",
 		"REMEMBER": "REMEMBER"
 	},
 	"USERS": {
@@ -88,6 +122,12 @@
 	"USERWORDS": {
 		"TOTAL_USERS": "Total users",
 		"WORD": "Word"
+	},
+	"WORD": {
+		"TAB": {
+			"IMAGES": "Images",
+			"INFO": "Info"
+		}
 	},
 	"WORDS-LIST": {
 		"TABLE": {
@@ -104,6 +144,7 @@
 	},
 	"WORDS_LIST": {
 		"ADD_SELECTED_WORDS": "Add selected words",
+		"ADD_WORDS": "Add as many words as you want",
 		"SUBMIT": "Refine words"
 	}
 }

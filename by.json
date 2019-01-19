@@ -8,6 +8,7 @@
 		"CANCEL": "",
 		"DELETE": "",
 		"EDIT": "",
+		"IMAGE_URL": "",
 		"SAVE": "",
 		"URL_REQUIRED": ""
 	},
@@ -24,6 +25,7 @@
 	},
 	"COMMENT": {
 		"CANCEL": "",
+		"COMMENT": "",
 		"LIKE": "",
 		"POST": "",
 		"REPLY": ""
@@ -38,6 +40,7 @@
 		"TELEGRAM": ""
 	},
 	"FEEDBACK": {
+		"FEEDBACK": "",
 		"POST": ""
 	},
 	"FOOTER": {
@@ -61,7 +64,16 @@
 	"LOGIN": {
 		"EMAIL": "",
 		"LOGIN": "",
-		"PASSWORD": ""
+		"PASSWORD": "",
+		"VALIDATION_ERROR": {
+			"EMAIL": {
+				"REQUIRED": "",
+				"VALID": ""
+			},
+			"PASSWORD": {
+				"REQUIRED": ""
+			}
+		}
 	},
 	"NO-CONTENT": {
 		"HEADER": "",
@@ -75,10 +87,32 @@
 		"DISPLAY_NAME": "",
 		"EMAIL": "",
 		"PASSWORD": "",
-		"REGISTER": ""
+		"REGISTER": "",
+		"VALIDATION_ERROR": {
+			"DISPAY_NAME": {
+				"REQUIRED": ""
+			},
+			"EMAIL": {
+				"REQUIRED": "",
+				"VALID": ""
+			},
+			"PASSWORD": {
+				"REQUIRED": ""
+			}
+		}
+	},
+	"TRAINING": {
+		"LINK": {
+			"ACTIVE": "",
+			"ALL": "",
+			"COMPLETED": "",
+			"QUEUE": ""
+		}
 	},
 	"TRAINING_ACTIVE": {
+		"ACTIVE": "",
 		"DONT_REMEMBER": "",
+		"INACTIVE": "",
 		"REMEMBER": ""
 	},
 	"USERS": {
@@ -88,6 +122,12 @@
 	"USERWORDS": {
 		"TOTAL_USERS": "",
 		"WORD": ""
+	},
+	"WORD": {
+		"TAB": {
+			"IMAGES": "",
+			"INFO": ""
+		}
 	},
 	"WORDS-LIST": {
 		"TABLE": {
@@ -104,6 +144,7 @@
 	},
 	"WORDS_LIST": {
 		"ADD_SELECTED_WORDS": "",
+		"ADD_WORDS": "",
 		"SUBMIT": ""
 	}
 }

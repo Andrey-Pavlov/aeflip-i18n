@@ -8,6 +8,7 @@
 		"CANCEL": "Отменить",
 		"DELETE": "Удалить",
 		"EDIT": "Изменить",
+		"IMAGE_URL": "URL изображения",
 		"SAVE": "Сохранить",
 		"URL_REQUIRED": "URL обязательна"
 	},
@@ -20,10 +21,11 @@
 		"REGISTER": "Регистрация",
 		"TRAINING": "Тренировать",
 		"USERS": "Пользователи",
-		"WORDS": "Слова"
+		"WORDS": "Слова в системе"
 	},
 	"COMMENT": {
 		"CANCEL": "Отменить",
+		"COMMENT": "Комментарий",
 		"LIKE": "Нравится",
 		"POST": "Отправить",
 		"REPLY": "Ответить"
@@ -38,6 +40,7 @@
 		"TELEGRAM": "Телеграм"
 	},
 	"FEEDBACK": {
+		"FEEDBACK": "Отзыв",
 		"POST": "Отправить"
 	},
 	"FOOTER": {
@@ -61,7 +64,16 @@
 	"LOGIN": {
 		"EMAIL": "Почта",
 		"LOGIN": "Войти",
-		"PASSWORD": "Пароль"
+		"PASSWORD": "Пароль",
+		"VALIDATION_ERROR": {
+			"EMAIL": {
+				"REQUIRED": "Почта обязательна",
+				"VALID": "Почта неправильно указана"
+			},
+			"PASSWORD": {
+				"REQUIRED": "Пароль обязателен"
+			}
+		}
 	},
 	"NO-CONTENT": {
 		"HEADER": "Упс, что-то не так здесь",
@@ -75,10 +87,32 @@
 		"DISPLAY_NAME": "Отображаемое имя",
 		"EMAIL": "Почта",
 		"PASSWORD": "Пароль",
-		"REGISTER": "Зарегистрироваться"
+		"REGISTER": "Зарегистрироваться",
+		"VALIDATION_ERROR": {
+			"DISPAY_NAME": {
+				"REQUIRED": "Отображаемое имя обязательно"
+			},
+			"EMAIL": {
+				"REQUIRED": "Почта обязательна",
+				"VALID": "Почта неправильно указана"
+			},
+			"PASSWORD": {
+				"REQUIRED": "Пароль обязателен"
+			}
+		}
+	},
+	"TRAINING": {
+		"LINK": {
+			"ACTIVE": "Активно",
+			"ALL": "Всего",
+			"COMPLETED": "Завершено",
+			"QUEUE": "В очереди"
+		}
 	},
 	"TRAINING_ACTIVE": {
+		"ACTIVE": "Неактивно",
 		"DONT_REMEMBER": "НЕ ПОМНЮ",
+		"INACTIVE": "Активно",
 		"REMEMBER": "ПОМНЮ"
 	},
 	"USERS": {
@@ -89,12 +123,18 @@
 		"TOTAL_USERS": "Всего пользователей",
 		"WORD": "Слово"
 	},
+	"WORD": {
+		"TAB": {
+			"IMAGES": "Изображения",
+			"INFO": "Информация"
+		}
+	},
 	"WORDS-LIST": {
 		"TABLE": {
 			"ACTIONS": "Действия",
 			"ADD": "Добавить",
 			"COUNT": "Количество",
-			"IGNORE": "Игнорировать",
+			"IGNORE": "Игнор",
 			"WORD": "Слово"
 		}
 	},
@@ -104,6 +144,7 @@
 	},
 	"WORDS_LIST": {
 		"ADD_SELECTED_WORDS": "Добавить выбранные слова",
+		"ADD_WORDS": "Добавте сколько угодно слов",
 		"SUBMIT": "Обработать слова"
 	}
 }
