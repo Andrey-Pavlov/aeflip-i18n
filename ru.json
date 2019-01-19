@@ -5,11 +5,11 @@
 		"HELLO": "Здравствуйте!"
 	},
 	"ADD_CARD_IMAGE": {
-		"CANCEL": "",
-		"DELETE": "",
-		"EDIT": "",
-		"SAVE": "",
-		"URL_REQUIRED": ""
+		"CANCEL": "Отменить",
+		"DELETE": "Удалить",
+		"EDIT": "Изменить",
+		"SAVE": "Сохранить",
+		"URL_REQUIRED": "URL обязательна"
 	},
 	"APP": {
 		"ADD_WORDS": "Добавить слова",
@@ -23,29 +23,31 @@
 		"WORDS": "Слова"
 	},
 	"COMMENT": {
-		"CANCEL": "",
-		"LIKE": "",
-		"POST": "",
-		"REPLY": ""
+		"CANCEL": "Отменить",
+		"LIKE": "Нравится",
+		"POST": "Отправить",
+		"REPLY": "Ответить"
 	},
 	"CONFIRM": {
-		"NO": "",
-		"SURE": "",
-		"YES": ""
+		"NO": "Нет",
+		"SURE": "Вы уверены?",
+		"YES": "Да"
 	},
 	"CONTACTS": {
-		"EMAIL": "",
-		"TELEGRAM": ""
+		"EMAIL": "Почта",
+		"TELEGRAM": "Телеграм"
 	},
 	"FEEDBACK": {
-		"POST": ""
+		"POST": "Отправить"
 	},
 	"FOOTER": {
 		"ABOUT": "О проекте",
 		"CONTACTS": "Связаться с нами"
 	},
 	"LANDING": {
+		"ADD": "Доб|вляй",
 		"DESCRIPTION": "Наконец-то, централизованное место для изучения и тренировки наших иностранных слов.",
+		"EDIT": "Изм|няй",
 		"LOGIN": "Войти",
 		"REGISTER": "Зарегистрироваться",
 		"REPEAT": "Повторяй",
@@ -57,51 +59,51 @@
 		"WORDS_WAITING_TRAINING": "Слов для тренировки"
 	},
 	"LOGIN": {
-		"EMAIL": "",
-		"LOGIN": "",
-		"PASSWORD": ""
+		"EMAIL": "Почта",
+		"LOGIN": "Войти",
+		"PASSWORD": "Пароль"
 	},
 	"NO-CONTENT": {
-		"HEADER": "",
-		"SUB-HEADER": ""
+		"HEADER": "Упс, что-то не так здесь",
+		"SUB-HEADER": "Страница, которую вы ищете, уже не найти. Нажмите здесь чтобы вернуться |назад| или |домой| на главную."
 	},
 	"NO-RESULTS": {
-		"FOUND": "",
-		"MESSAGE": ""
+		"FOUND": "0 найдено",
+		"MESSAGE": "Извините! Мы ничего не нашли."
 	},
 	"REGISTER": {
-		"DISPLAY_NAME": "",
-		"EMAIL": "",
-		"PASSWORD": "",
-		"REGISTER": ""
+		"DISPLAY_NAME": "Отображаемое имя",
+		"EMAIL": "Почта",
+		"PASSWORD": "Пароль",
+		"REGISTER": "Зарегистрироваться"
 	},
 	"TRAINING_ACTIVE": {
-		"DONT_REMEMBER": "",
-		"REMEMBER": ""
+		"DONT_REMEMBER": "НЕ ПОМНЮ",
+		"REMEMBER": "ПОМНЮ"
 	},
 	"USERS": {
-		"NAME": "",
-		"NUMBER": ""
+		"NAME": "Имя",
+		"NUMBER": "№"
 	},
 	"USERWORDS": {
-		"TOTAL_USERS": "",
-		"WORD": ""
+		"TOTAL_USERS": "Всего пользователей",
+		"WORD": "Слово"
 	},
 	"WORDS-LIST": {
 		"TABLE": {
-			"ACTIONS": "",
-			"ADD": "",
-			"COUNT": "",
-			"IGNORE": "",
-			"WORD": ""
+			"ACTIONS": "Действия",
+			"ADD": "Добавить",
+			"COUNT": "Количество",
+			"IGNORE": "Игнорировать",
+			"WORD": "Слово"
 		}
 	},
 	"WORDS": {
-		"TOTAL_USERS": "",
-		"WORD": ""
+		"TOTAL_USERS": "Всего",
+		"WORD": "Слово"
 	},
 	"WORDS_LIST": {
-		"ADD_SELECTED_WORDS": "",
-		"SUBMIT": ""
+		"ADD_SELECTED_WORDS": "Добавить выбранные слова",
+		"SUBMIT": "Обработать слова"
 	}
 }

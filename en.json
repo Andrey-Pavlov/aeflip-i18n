@@ -45,7 +45,9 @@
 		"CONTACTS": "Contacts"
 	},
 	"LANDING": {
+		"ADD": "|dd",
 		"DESCRIPTION": "Finally, a centralized place to learn and train your foreign words.",
+		"EDIT": "|dit",
 		"LOGIN": "Login",
 		"REGISTER": "Register",
 		"REPEAT": "Repeat",
