@@ -14,6 +14,7 @@
 	},
 	"APP": {
 		"ADD_WORDS": "Add words",
+		"CARDS": "Cards",
 		"FEEDBACK": "FEEDBACK",
 		"LOGIN": "Login",
 		"LOGOUT": "Logout",
@@ -125,8 +126,10 @@
 	},
 	"WORD": {
 		"TAB": {
+			"EXAMPLES": "Examples",
 			"IMAGES": "Images",
-			"INFO": "Info"
+			"INFO": "Info",
+			"MORE_TRANSLATIONS": "More translations"
 		}
 	},
 	"WORDS-LIST": {

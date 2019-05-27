@@ -14,6 +14,7 @@
 	},
 	"APP": {
 		"ADD_WORDS": "Добавить слова",
+		"CARDS": "Карты",
 		"FEEDBACK": "ОТЗЫВ",
 		"LOGIN": "Войти",
 		"LOGOUT": "Выйти",
@@ -125,8 +126,10 @@
 	},
 	"WORD": {
 		"TAB": {
+			"EXAMPLES": "Примеры",
 			"IMAGES": "Изображения",
-			"INFO": "Информация"
+			"INFO": "Информация",
+			"MORE_TRANSLATIONS": "Другие значения"
 		}
 	},
 	"WORDS-LIST": {
