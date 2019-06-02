@@ -25,10 +25,8 @@
 		"WORDS": "Слова в системе"
 	},
 	"COMMENT": {
-		"CANCEL": "Отменить",
-		"COMMENT": "Комментарий",
+		"DISLIKE": "",
 		"LIKE": "Нравится",
-		"POST": "Отправить",
 		"REPLY": "Ответить"
 	},
 	"CONFIRM": {
@@ -39,10 +37,6 @@
 	"CONTACTS": {
 		"EMAIL": "Почта",
 		"TELEGRAM": "Телеграм"
-	},
-	"FEEDBACK": {
-		"FEEDBACK": "Отзыв",
-		"POST": "Отправить"
 	},
 	"FOOTER": {
 		"ABOUT": "О проекте",
@@ -121,7 +115,9 @@
 		"NUMBER": "№"
 	},
 	"USERWORDS": {
-		"TOTAL_USERS": "Всего пользователей",
+		"CREATE_DATE": "Дата создания",
+		"FROM_LANGUAGE": "С",
+		"TO_LANGUAGE": "На",
 		"WORD": "Слово"
 	},
 	"WORD": {
@@ -142,7 +138,9 @@
 		}
 	},
 	"WORDS": {
-		"TOTAL_USERS": "Всего",
+		"CREATE_DATE": "Дата создания",
+		"FROM_LANGUAGE": "С",
+		"TO_LANGUAGE": "На",
 		"WORD": "Слово"
 	},
 	"WORDS_LIST": {

@@ -25,10 +25,8 @@
 		"WORDS": "Words"
 	},
 	"COMMENT": {
-		"CANCEL": "Cancel",
-		"COMMENT": "Commentary",
+		"DISLIKE": "",
 		"LIKE": "Like",
-		"POST": "Post",
 		"REPLY": "Reply"
 	},
 	"CONFIRM": {
@@ -39,10 +37,6 @@
 	"CONTACTS": {
 		"EMAIL": "Email",
 		"TELEGRAM": "Telegram"
-	},
-	"FEEDBACK": {
-		"FEEDBACK": "Feedback",
-		"POST": "Post"
 	},
 	"FOOTER": {
 		"ABOUT": "About",
@@ -121,7 +115,9 @@
 		"NUMBER": "No."
 	},
 	"USERWORDS": {
-		"TOTAL_USERS": "Total users",
+		"CREATE_DATE": "Creation date",
+		"FROM_LANGUAGE": "From",
+		"TO_LANGUAGE": "To",
 		"WORD": "Word"
 	},
 	"WORD": {
@@ -142,7 +138,9 @@
 		}
 	},
 	"WORDS": {
-		"TOTAL_USERS": "Total users",
+		"CREATE_DATE": "Creation date",
+		"FROM_LANGUAGE": "From",
+		"TO_LANGUAGE": "To",
 		"WORD": "Word"
 	},
 	"WORDS_LIST": {
