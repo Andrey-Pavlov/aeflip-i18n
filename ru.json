@@ -13,7 +13,7 @@
 		"URL_REQUIRED": "URL обязательна"
 	},
 	"APP": {
-		"ADD_WORDS": "Добавить слова",
+		"ADD_WORDS": "Добавить",
 		"CARDS": "Карты",
 		"FEEDBACK": "ОТЗЫВ",
 		"LOGIN": "Войти",
@@ -25,10 +25,11 @@
 		"WORDS": "Слова в системе"
 	},
 	"COMMENT": {
-		"CANCEL": "Отменить",
-		"COMMENT": "Комментарий",
+		"APPROVE": "Подтвердить",
+		"DELETE": "Удалить",
+		"DISLIKE": "Не нравится",
 		"LIKE": "Нравится",
-		"POST": "Отправить",
+		"MODERATION": "Проверяется",
 		"REPLY": "Ответить"
 	},
 	"CONFIRM": {
@@ -39,10 +40,6 @@
 	"CONTACTS": {
 		"EMAIL": "Почта",
 		"TELEGRAM": "Телеграм"
-	},
-	"FEEDBACK": {
-		"FEEDBACK": "Отзыв",
-		"POST": "Отправить"
 	},
 	"FOOTER": {
 		"ABOUT": "О проекте",
@@ -121,7 +118,9 @@
 		"NUMBER": "№"
 	},
 	"USERWORDS": {
-		"TOTAL_USERS": "Всего пользователей",
+		"CREATE_DATE": "Дата создания",
+		"FROM_LANGUAGE": "С",
+		"TO_LANGUAGE": "На",
 		"WORD": "Слово"
 	},
 	"WORD": {
@@ -142,12 +141,14 @@
 		}
 	},
 	"WORDS": {
-		"TOTAL_USERS": "Всего",
+		"CREATE_DATE": "Дата создания",
+		"FROM_LANGUAGE": "С",
+		"TO_LANGUAGE": "На",
 		"WORD": "Слово"
 	},
 	"WORDS_LIST": {
 		"ADD_SELECTED_WORDS": "Добавить выбранные слова",
-		"ADD_WORDS": "Добавте сколько угодно слов",
+		"ADD_WORDS": "Добавьте сколько угодно слов",
 		"SUBMIT": "Обработать слова"
 	}
 }

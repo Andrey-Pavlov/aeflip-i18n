@@ -25,10 +25,11 @@
 		"WORDS": ""
 	},
 	"COMMENT": {
-		"CANCEL": "",
-		"COMMENT": "",
+		"APPROVE": "",
+		"DELETE": "",
+		"DISLIKE": "",
 		"LIKE": "",
-		"POST": "",
+		"MODERATION": "",
 		"REPLY": ""
 	},
 	"CONFIRM": {
@@ -39,10 +40,6 @@
 	"CONTACTS": {
 		"EMAIL": "",
 		"TELEGRAM": ""
-	},
-	"FEEDBACK": {
-		"FEEDBACK": "",
-		"POST": ""
 	},
 	"FOOTER": {
 		"ABOUT": "",
@@ -121,7 +118,9 @@
 		"NUMBER": ""
 	},
 	"USERWORDS": {
-		"TOTAL_USERS": "",
+		"CREATE_DATE": "",
+		"FROM_LANGUAGE": "",
+		"TO_LANGUAGE": "",
 		"WORD": ""
 	},
 	"WORD": {
@@ -142,7 +141,9 @@
 		}
 	},
 	"WORDS": {
-		"TOTAL_USERS": "",
+		"CREATE_DATE": "",
+		"FROM_LANGUAGE": "",
+		"TO_LANGUAGE": "",
 		"WORD": ""
 	},
 	"WORDS_LIST": {
