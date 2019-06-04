@@ -45,6 +45,9 @@
 		"ABOUT": "",
 		"CONTACTS": ""
 	},
+	"GLOBAL": {
+		"REQUIRED": ""
+	},
 	"LANDING": {
 		"ADD": "",
 		"DESCRIPTION": "",
@@ -58,6 +61,10 @@
 		"WORDS_COMPLETED": "",
 		"WORDS_IN_QUEUE": "",
 		"WORDS_WAITING_TRAINING": ""
+	},
+	"LANGUAGE_SELECTOR": {
+		"FROM": "",
+		"TO": ""
 	},
 	"LOGIN": {
 		"EMAIL": "",

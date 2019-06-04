@@ -45,6 +45,9 @@
 		"ABOUT": "About",
 		"CONTACTS": "Contacts"
 	},
+	"GLOBAL": {
+		"REQUIRED": "Required"
+	},
 	"LANDING": {
 		"ADD": "|dd",
 		"DESCRIPTION": "Finally, a centralized place to learn and train your foreign words.",
@@ -58,6 +61,10 @@
 		"WORDS_COMPLETED": "Words completed",
 		"WORDS_IN_QUEUE": "Words in queue",
 		"WORDS_WAITING_TRAINING": "Words are waiting for training"
+	},
+	"LANGUAGE_SELECTOR": {
+		"FROM": "From language",
+		"TO": "To language"
 	},
 	"LOGIN": {
 		"EMAIL": "Email",
