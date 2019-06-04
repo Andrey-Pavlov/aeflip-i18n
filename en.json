@@ -14,6 +14,7 @@
 	},
 	"APP": {
 		"ADD_WORDS": "Add words",
+		"ADMIN": "Administrator",
 		"CARDS": "Cards",
 		"FEEDBACK": "FEEDBACK",
 		"LOGIN": "Login",
@@ -133,9 +134,10 @@
 	"WORD": {
 		"TAB": {
 			"EXAMPLES": "Examples",
-			"IMAGES": "Images",
+			"IMAGES": "Default Images",
 			"INFO": "Info",
-			"MORE_TRANSLATIONS": "More translations"
+			"MORE_TRANSLATIONS": "More translations",
+			"USER_IMAGES": "User Images"
 		}
 	},
 	"WORDS-LIST": {

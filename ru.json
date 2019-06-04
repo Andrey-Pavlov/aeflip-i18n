@@ -14,6 +14,7 @@
 	},
 	"APP": {
 		"ADD_WORDS": "Добавить",
+		"ADMIN": "Администратор",
 		"CARDS": "Карты",
 		"FEEDBACK": "ОТЗЫВ",
 		"LOGIN": "Войти",
@@ -133,9 +134,10 @@
 	"WORD": {
 		"TAB": {
 			"EXAMPLES": "Примеры",
-			"IMAGES": "Изображения",
+			"IMAGES": "Изображения (Админ)",
 			"INFO": "Информация",
-			"MORE_TRANSLATIONS": "Другие значения"
+			"MORE_TRANSLATIONS": "Другие значения",
+			"USER_IMAGES": "Изображения"
 		}
 	},
 	"WORDS-LIST": {
