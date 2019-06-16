@@ -17,6 +17,7 @@
 		"ADMIN": "Administrator",
 		"CARDS": "Cards",
 		"FEEDBACK": "FEEDBACK",
+		"FILTER_SEARCH": "Filter",
 		"LOGIN": "Login",
 		"LOGOUT": "Logout",
 		"MY_WORDS": "My Words",
@@ -108,12 +109,17 @@
 		}
 	},
 	"TRAINING": {
+		"CREATE_DATE": "Creation date",
+		"IS_COMPLETED": "Completed",
+		"LAST_TRAINING_DATE": "Last training date",
 		"LINK": {
 			"ACTIVE": "Active",
 			"ALL": "All",
 			"COMPLETED": "Completed",
 			"QUEUE": "Queue"
-		}
+		},
+		"NEXT_TRAINING_DATE": "Next training date",
+		"WORD": "Word"
 	},
 	"TRAINING_ACTIVE": {
 		"ACTIVE": "Active",
@@ -144,8 +150,9 @@
 		"TABLE": {
 			"ACTIONS": "Actions",
 			"ADD": "Add",
-			"COUNT": "Count",
 			"IGNORE": "Ignore",
+			"LANGUAGE_FROM": "From",
+			"LANGUAGE_TO": "To",
 			"WORD": "Word"
 		}
 	},

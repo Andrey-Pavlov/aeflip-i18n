@@ -17,6 +17,7 @@
 		"ADMIN": "",
 		"CARDS": "",
 		"FEEDBACK": "",
+		"FILTER_SEARCH": "",
 		"LOGIN": "",
 		"LOGOUT": "",
 		"MY_WORDS": "",
@@ -108,12 +109,17 @@
 		}
 	},
 	"TRAINING": {
+		"CREATE_DATE": "",
+		"IS_COMPLETED": "",
+		"LAST_TRAINING_DATE": "",
 		"LINK": {
 			"ACTIVE": "",
 			"ALL": "",
 			"COMPLETED": "",
 			"QUEUE": ""
-		}
+		},
+		"NEXT_TRAINING_DATE": "",
+		"WORD": ""
 	},
 	"TRAINING_ACTIVE": {
 		"ACTIVE": "",
@@ -144,8 +150,9 @@
 		"TABLE": {
 			"ACTIONS": "",
 			"ADD": "",
-			"COUNT": "",
 			"IGNORE": "",
+			"LANGUAGE_FROM": "",
+			"LANGUAGE_TO": "",
 			"WORD": ""
 		}
 	},

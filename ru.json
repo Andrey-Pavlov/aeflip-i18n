@@ -17,6 +17,7 @@
 		"ADMIN": "Администратор",
 		"CARDS": "Карты",
 		"FEEDBACK": "ОТЗЫВ",
+		"FILTER_SEARCH": "Фильтр",
 		"LOGIN": "Войти",
 		"LOGOUT": "Выйти",
 		"MY_WORDS": "Мои слова",
@@ -108,12 +109,17 @@
 		}
 	},
 	"TRAINING": {
+		"CREATE_DATE": "Дата создания",
+		"IS_COMPLETED": "Завершено",
+		"LAST_TRAINING_DATE": "Дата прошлой тренировки",
 		"LINK": {
 			"ACTIVE": "Активно",
 			"ALL": "Всего",
 			"COMPLETED": "Завершено",
 			"QUEUE": "В очереди"
-		}
+		},
+		"NEXT_TRAINING_DATE": "Дата следующей тренировки",
+		"WORD": "Слово"
 	},
 	"TRAINING_ACTIVE": {
 		"ACTIVE": "Неактивно",
@@ -144,8 +150,9 @@
 		"TABLE": {
 			"ACTIONS": "Действия",
 			"ADD": "Добавить",
-			"COUNT": "Количество",
 			"IGNORE": "Игнор",
+			"LANGUAGE_FROM": "С",
+			"LANGUAGE_TO": "На",
 			"WORD": "Слово"
 		}
 	},
