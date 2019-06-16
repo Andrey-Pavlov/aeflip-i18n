@@ -110,6 +110,8 @@
 	},
 	"TRAINING": {
 		"CREATE_DATE": "Creation date",
+		"DISABLE": "Disable this training",
+		"ENABLE": "Enable this training",
 		"IS_COMPLETED": "Completed",
 		"LAST_TRAINING_DATE": "Last training date",
 		"LINK": {
