@@ -9,13 +9,16 @@
 		"DELETE": "Удалить",
 		"EDIT": "Изменить",
 		"IMAGE_URL": "URL изображения",
+		"INVALID_IMAGE_FORMAT": "Неправильный URL картинки",
 		"SAVE": "Сохранить",
 		"URL_REQUIRED": "URL обязательна"
 	},
 	"APP": {
 		"ADD_WORDS": "Добавить",
+		"ADMIN": "Администратор",
 		"CARDS": "Карты",
 		"FEEDBACK": "ОТЗЫВ",
+		"FILTER_SEARCH": "Фильтр",
 		"LOGIN": "Войти",
 		"LOGOUT": "Выйти",
 		"MY_WORDS": "Мои слова",
@@ -107,12 +110,21 @@
 		}
 	},
 	"TRAINING": {
+		"CREATE_DATE": "Дата создания",
+		"DISABLE": "Выключить эту тренировку",
+		"ENABLE": "Включить эту тренировку",
+		"IS_COMPLETED": "Завершено",
+		"LAST_TRAINING_DATE": "Дата прошлой тренировки",
 		"LINK": {
 			"ACTIVE": "Активно",
 			"ALL": "Всего",
 			"COMPLETED": "Завершено",
 			"QUEUE": "В очереди"
-		}
+		},
+		"NEXT_TRAINING_DATE": "Дата следующей тренировки",
+		"NOTE": "Заметка",
+		"SAVE_NOTE": "Сохранить заметку",
+		"WORD": "Слово"
 	},
 	"TRAINING_ACTIVE": {
 		"ACTIVE": "Неактивно",
@@ -133,17 +145,20 @@
 	"WORD": {
 		"TAB": {
 			"EXAMPLES": "Примеры",
-			"IMAGES": "Изображения",
+			"IMAGES": "Изображения (Админ)",
 			"INFO": "Информация",
-			"MORE_TRANSLATIONS": "Другие значения"
+			"MORE_TRANSLATIONS": "Другие значения",
+			"NOTE": "Заметка",
+			"USER_IMAGES": "Изображения"
 		}
 	},
 	"WORDS-LIST": {
 		"TABLE": {
 			"ACTIONS": "Действия",
 			"ADD": "Добавить",
-			"COUNT": "Количество",
 			"IGNORE": "Игнор",
+			"LANGUAGE_FROM": "С",
+			"LANGUAGE_TO": "На",
 			"WORD": "Слово"
 		}
 	},

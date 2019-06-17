@@ -9,13 +9,16 @@
 		"DELETE": "Delete",
 		"EDIT": "Edit",
 		"IMAGE_URL": "Image url",
+		"INVALID_IMAGE_FORMAT": "Incorrect URL address",
 		"SAVE": "Save",
 		"URL_REQUIRED": "Url is required"
 	},
 	"APP": {
 		"ADD_WORDS": "Add words",
+		"ADMIN": "Administrator",
 		"CARDS": "Cards",
 		"FEEDBACK": "FEEDBACK",
+		"FILTER_SEARCH": "Filter",
 		"LOGIN": "Login",
 		"LOGOUT": "Logout",
 		"MY_WORDS": "My Words",
@@ -107,12 +110,21 @@
 		}
 	},
 	"TRAINING": {
+		"CREATE_DATE": "Creation date",
+		"DISABLE": "Disable this training",
+		"ENABLE": "Enable this training",
+		"IS_COMPLETED": "Completed",
+		"LAST_TRAINING_DATE": "Last training date",
 		"LINK": {
 			"ACTIVE": "Active",
 			"ALL": "All",
 			"COMPLETED": "Completed",
 			"QUEUE": "Queue"
-		}
+		},
+		"NEXT_TRAINING_DATE": "Next training date",
+		"NOTE": "Note",
+		"SAVE_NOTE": "Save note",
+		"WORD": "Word"
 	},
 	"TRAINING_ACTIVE": {
 		"ACTIVE": "Active",
@@ -133,17 +145,20 @@
 	"WORD": {
 		"TAB": {
 			"EXAMPLES": "Examples",
-			"IMAGES": "Images",
+			"IMAGES": "Default Images",
 			"INFO": "Info",
-			"MORE_TRANSLATIONS": "More translations"
+			"MORE_TRANSLATIONS": "More translations",
+			"NOTE": "Note",
+			"USER_IMAGES": "User Images"
 		}
 	},
 	"WORDS-LIST": {
 		"TABLE": {
 			"ACTIONS": "Actions",
 			"ADD": "Add",
-			"COUNT": "Count",
 			"IGNORE": "Ignore",
+			"LANGUAGE_FROM": "From",
+			"LANGUAGE_TO": "To",
 			"WORD": "Word"
 		}
 	},

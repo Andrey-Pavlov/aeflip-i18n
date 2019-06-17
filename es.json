@@ -9,13 +9,16 @@
 		"DELETE": "",
 		"EDIT": "",
 		"IMAGE_URL": "",
+		"INVALID_IMAGE_FORMAT": "",
 		"SAVE": "",
 		"URL_REQUIRED": ""
 	},
 	"APP": {
 		"ADD_WORDS": "",
+		"ADMIN": "",
 		"CARDS": "",
 		"FEEDBACK": "",
+		"FILTER_SEARCH": "",
 		"LOGIN": "",
 		"LOGOUT": "",
 		"MY_WORDS": "",
@@ -107,12 +110,21 @@
 		}
 	},
 	"TRAINING": {
+		"CREATE_DATE": "",
+		"DISABLE": "",
+		"ENABLE": "",
+		"IS_COMPLETED": "",
+		"LAST_TRAINING_DATE": "",
 		"LINK": {
 			"ACTIVE": "",
 			"ALL": "",
 			"COMPLETED": "",
 			"QUEUE": ""
-		}
+		},
+		"NEXT_TRAINING_DATE": "",
+		"NOTE": "",
+		"SAVE_NOTE": "",
+		"WORD": ""
 	},
 	"TRAINING_ACTIVE": {
 		"ACTIVE": "",
@@ -135,15 +147,18 @@
 			"EXAMPLES": "",
 			"IMAGES": "",
 			"INFO": "",
-			"MORE_TRANSLATIONS": ""
+			"MORE_TRANSLATIONS": "",
+			"NOTE": "",
+			"USER_IMAGES": ""
 		}
 	},
 	"WORDS-LIST": {
 		"TABLE": {
 			"ACTIONS": "",
 			"ADD": "",
-			"COUNT": "",
 			"IGNORE": "",
+			"LANGUAGE_FROM": "",
+			"LANGUAGE_TO": "",
 			"WORD": ""
 		}
 	},
