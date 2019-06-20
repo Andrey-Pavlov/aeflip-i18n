@@ -96,6 +96,7 @@
 		"COINS_BALANCE": "Coins",
 		"CREATE_DATE": "Create date",
 		"DISPLAY_NAME": "Nickname",
+		"EMAIL_CONFIRMED": "Email confirmed",
 		"EXTERNAL_ACCOUNTS": "External accounts",
 		"FILENAME": "Filename",
 		"SELECT_IMAGE": "Select image",
