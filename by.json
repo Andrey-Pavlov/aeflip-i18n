@@ -9,6 +9,7 @@
 		"DELETE": "",
 		"EDIT": "",
 		"IMAGE_URL": "",
+		"INVALID_IMAGE_FORMAT": "",
 		"SAVE": "",
 		"URL_REQUIRED": ""
 	},
@@ -132,6 +133,8 @@
 			"QUEUE": ""
 		},
 		"NEXT_TRAINING_DATE": "",
+		"NOTE": "",
+		"SAVE_NOTE": "",
 		"WORD": ""
 	},
 	"TRAINING_ACTIVE": {
@@ -156,6 +159,7 @@
 			"IMAGES": "",
 			"INFO": "",
 			"MORE_TRANSLATIONS": "",
+			"NOTE": "",
 			"USER_IMAGES": ""
 		}
 	},

@@ -9,6 +9,7 @@
 		"DELETE": "Удалить",
 		"EDIT": "Изменить",
 		"IMAGE_URL": "URL изображения",
+		"INVALID_IMAGE_FORMAT": "Неправильный URL картинки",
 		"SAVE": "Сохранить",
 		"URL_REQUIRED": "URL обязательна"
 	},
@@ -132,6 +133,8 @@
 			"QUEUE": "В очереди"
 		},
 		"NEXT_TRAINING_DATE": "Дата следующей тренировки",
+		"NOTE": "Заметка",
+		"SAVE_NOTE": "Сохранить заметку",
 		"WORD": "Слово"
 	},
 	"TRAINING_ACTIVE": {
@@ -156,6 +159,7 @@
 			"IMAGES": "Изображения (Админ)",
 			"INFO": "Информация",
 			"MORE_TRANSLATIONS": "Другие значения",
+			"NOTE": "Заметка",
 			"USER_IMAGES": "Изображения"
 		}
 	},

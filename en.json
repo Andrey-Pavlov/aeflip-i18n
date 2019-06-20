@@ -9,6 +9,7 @@
 		"DELETE": "Delete",
 		"EDIT": "Edit",
 		"IMAGE_URL": "Image url",
+		"INVALID_IMAGE_FORMAT": "Incorrect URL address",
 		"SAVE": "Save",
 		"URL_REQUIRED": "Url is required"
 	},
@@ -132,6 +133,8 @@
 			"QUEUE": "Queue"
 		},
 		"NEXT_TRAINING_DATE": "Next training date",
+		"NOTE": "Note",
+		"SAVE_NOTE": "Save note",
 		"WORD": "Word"
 	},
 	"TRAINING_ACTIVE": {
@@ -156,6 +159,7 @@
 			"IMAGES": "Default Images",
 			"INFO": "Info",
 			"MORE_TRANSLATIONS": "More translations",
+			"NOTE": "Note",
 			"USER_IMAGES": "User Images"
 		}
 	},
