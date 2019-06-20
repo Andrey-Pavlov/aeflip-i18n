@@ -90,6 +90,17 @@
 		"FOUND": "",
 		"MESSAGE": ""
 	},
+	"PROFILE": {
+		"ACCOUNT_BALANCE_TRANSACTIONS": "",
+		"COINS_BALANCE": "",
+		"CREATE_DATE": "",
+		"DISPLAY_NAME": "",
+		"EXTERNAL_ACCOUNTS": "",
+		"FILENAME": "",
+		"SELECT_IMAGE": "",
+		"SUBMIT": "",
+		"USER_ROLES": ""
+	},
 	"REGISTER": {
 		"DISPLAY_NAME": "",
 		"EMAIL": "",

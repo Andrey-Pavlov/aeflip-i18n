@@ -90,6 +90,17 @@
 		"FOUND": "0 найдено",
 		"MESSAGE": "Извините! Мы ничего не нашли."
 	},
+	"PROFILE": {
+		"ACCOUNT_BALANCE_TRANSACTIONS": "Транзакции",
+		"COINS_BALANCE": "Баланс",
+		"CREATE_DATE": "Дата создания",
+		"DISPLAY_NAME": "Никнейм",
+		"EXTERNAL_ACCOUNTS": "Внешние аккаунты",
+		"FILENAME": "Имя файла",
+		"SELECT_IMAGE": "Выбрать изображение",
+		"SUBMIT": "Сохранить",
+		"USER_ROLES": "Права/роли"
+	},
 	"REGISTER": {
 		"DISPLAY_NAME": "Отображаемое имя",
 		"EMAIL": "Почта",

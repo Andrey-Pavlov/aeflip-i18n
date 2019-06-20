@@ -90,6 +90,17 @@
 		"FOUND": "0 results found",
 		"MESSAGE": "Sorry! We couldn't find any results."
 	},
+	"PROFILE": {
+		"ACCOUNT_BALANCE_TRANSACTIONS": "Transactions",
+		"COINS_BALANCE": "Coins",
+		"CREATE_DATE": "Create date",
+		"DISPLAY_NAME": "Nickname",
+		"EXTERNAL_ACCOUNTS": "External accounts",
+		"FILENAME": "Filename",
+		"SELECT_IMAGE": "Select image",
+		"SUBMIT": "Save",
+		"USER_ROLES": "User roles"
+	},
 	"REGISTER": {
 		"DISPLAY_NAME": "Display Name",
 		"EMAIL": "Email",
