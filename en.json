@@ -93,12 +93,16 @@
 	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "Transactions",
+		"CHANGE_PASSWORD": "Change password",
 		"COINS_BALANCE": "Coins",
 		"CREATE_DATE": "Create date",
 		"DISPLAY_NAME": "Nickname",
 		"EMAIL_CONFIRMED": "Email confirmed",
 		"EXTERNAL_ACCOUNTS": "External accounts",
 		"FILENAME": "Filename",
+		"NEW_PASSWORD": "New password",
+		"OLD_PASSWORD": "Old password",
+		"PASSWORDS_NOT_SAME": "Passwords aren't the same",
 		"SELECT_IMAGE": "Select image",
 		"SUBMIT": "Save",
 		"USER_ROLES": "User roles"

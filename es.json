@@ -93,12 +93,16 @@
 	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "",
+		"CHANGE_PASSWORD": "",
 		"COINS_BALANCE": "",
 		"CREATE_DATE": "",
 		"DISPLAY_NAME": "",
 		"EMAIL_CONFIRMED": "",
 		"EXTERNAL_ACCOUNTS": "",
 		"FILENAME": "",
+		"NEW_PASSWORD": "",
+		"OLD_PASSWORD": "",
+		"PASSWORDS_NOT_SAME": "",
 		"SELECT_IMAGE": "",
 		"SUBMIT": "",
 		"USER_ROLES": ""

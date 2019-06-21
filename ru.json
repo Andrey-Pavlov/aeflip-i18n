@@ -93,12 +93,16 @@
 	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "Транзакции",
+		"CHANGE_PASSWORD": "Изменить пароль",
 		"COINS_BALANCE": "Баланс",
 		"CREATE_DATE": "Дата создания",
 		"DISPLAY_NAME": "Никнейм",
 		"EMAIL_CONFIRMED": "Почтовый ящик подтвержден",
 		"EXTERNAL_ACCOUNTS": "Внешние аккаунты",
 		"FILENAME": "Имя файла",
+		"NEW_PASSWORD": "Новый пароль",
+		"OLD_PASSWORD": "Старый пароль",
+		"PASSWORDS_NOT_SAME": "Пароли не совпадают",
 		"SELECT_IMAGE": "Выбрать изображение",
 		"SUBMIT": "Сохранить",
 		"USER_ROLES": "Права/роли"
