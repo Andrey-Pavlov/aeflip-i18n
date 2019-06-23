@@ -17,14 +17,23 @@
 		"ADD_WORDS": "Добавить",
 		"ADMIN": "Администратор",
 		"CARDS": "Карты",
+		"EMAIL": "Почта",
 		"FEEDBACK": "ОТЗЫВ",
 		"FILTER_SEARCH": "Фильтр",
 		"LOGIN": "Войти",
 		"LOGOUT": "Выйти",
 		"MY_WORDS": "Мои слова",
+		"NEW_PASSWORD": "Пароль",
+		"NEW_PASSWORD_CONFIRM": "Подтвердите пароль",
 		"REGISTER": "Регистрация",
+		"SUCCESSFULLY": "Успешно",
 		"TRAINING": "Тренировать",
 		"USERS": "Пользователи",
+		"VALIDATION_ERROR": {
+			"EMAIL": "Неправильный формат почты",
+			"MIN_LENGTH": "Минимальная длина: {{value}}",
+			"PASSWORDS_NOT_SAME": "Пароли не совпадают"
+		},
 		"WORDS": "Слова в системе"
 	},
 	"COMMENT": {
@@ -47,6 +56,10 @@
 	"FOOTER": {
 		"ABOUT": "О проекте",
 		"CONTACTS": "Связаться с нами"
+	},
+	"FORGOT_PASSWORD": {
+		"SUBMIT": "Отправить",
+		"TITLE": "Сбросить пароль"
 	},
 	"GLOBAL": {
 		"REQUIRED": "Обязательно"
@@ -71,17 +84,9 @@
 	},
 	"LOGIN": {
 		"EMAIL": "Почта",
+		"FORGOT_PASSWORD": "Забыли пароль?",
 		"LOGIN": "Войти",
-		"PASSWORD": "Пароль",
-		"VALIDATION_ERROR": {
-			"EMAIL": {
-				"REQUIRED": "Почта обязательна",
-				"VALID": "Почта неправильно указана"
-			},
-			"PASSWORD": {
-				"REQUIRED": "Пароль обязателен"
-			}
-		}
+		"PASSWORD": "Пароль"
 	},
 	"NO-CONTENT": {
 		"HEADER": "Упс, что-то не так здесь",
@@ -111,19 +116,11 @@
 		"DISPLAY_NAME": "Отображаемое имя",
 		"EMAIL": "Почта",
 		"PASSWORD": "Пароль",
-		"REGISTER": "Зарегистрироваться",
-		"VALIDATION_ERROR": {
-			"DISPAY_NAME": {
-				"REQUIRED": "Отображаемое имя обязательно"
-			},
-			"EMAIL": {
-				"REQUIRED": "Почта обязательна",
-				"VALID": "Почта неправильно указана"
-			},
-			"PASSWORD": {
-				"REQUIRED": "Пароль обязателен"
-			}
-		}
+		"REGISTER": "Зарегистрироваться"
+	},
+	"RESET_PASSWORD": {
+		"SUBMIT": "Сохранить",
+		"TITLE": "Сменить пароль"
 	},
 	"TRAINING": {
 		"CREATE_DATE": "Дата создания",

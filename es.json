@@ -17,14 +17,23 @@
 		"ADD_WORDS": "",
 		"ADMIN": "",
 		"CARDS": "",
+		"EMAIL": "",
 		"FEEDBACK": "",
 		"FILTER_SEARCH": "",
 		"LOGIN": "",
 		"LOGOUT": "",
 		"MY_WORDS": "",
+		"NEW_PASSWORD": "",
+		"NEW_PASSWORD_CONFIRM": "",
 		"REGISTER": "",
+		"SUCCESSFULLY": "",
 		"TRAINING": "",
 		"USERS": "",
+		"VALIDATION_ERROR": {
+			"EMAIL": "",
+			"MIN_LENGTH": "",
+			"PASSWORDS_NOT_SAME": ""
+		},
 		"WORDS": ""
 	},
 	"COMMENT": {
@@ -47,6 +56,10 @@
 	"FOOTER": {
 		"ABOUT": "",
 		"CONTACTS": ""
+	},
+	"FORGOT_PASSWORD": {
+		"SUBMIT": "",
+		"TITLE": ""
 	},
 	"GLOBAL": {
 		"REQUIRED": ""
@@ -71,17 +84,9 @@
 	},
 	"LOGIN": {
 		"EMAIL": "",
+		"FORGOT_PASSWORD": "",
 		"LOGIN": "",
-		"PASSWORD": "",
-		"VALIDATION_ERROR": {
-			"EMAIL": {
-				"REQUIRED": "",
-				"VALID": ""
-			},
-			"PASSWORD": {
-				"REQUIRED": ""
-			}
-		}
+		"PASSWORD": ""
 	},
 	"NO-CONTENT": {
 		"HEADER": "",
@@ -111,19 +116,11 @@
 		"DISPLAY_NAME": "",
 		"EMAIL": "",
 		"PASSWORD": "",
-		"REGISTER": "",
-		"VALIDATION_ERROR": {
-			"DISPAY_NAME": {
-				"REQUIRED": ""
-			},
-			"EMAIL": {
-				"REQUIRED": "",
-				"VALID": ""
-			},
-			"PASSWORD": {
-				"REQUIRED": ""
-			}
-		}
+		"REGISTER": ""
+	},
+	"RESET_PASSWORD": {
+		"SUBMIT": "",
+		"TITLE": ""
 	},
 	"TRAINING": {
 		"CREATE_DATE": "",

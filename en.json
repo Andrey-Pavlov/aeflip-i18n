@@ -17,14 +17,23 @@
 		"ADD_WORDS": "Add words",
 		"ADMIN": "Administrator",
 		"CARDS": "Cards",
+		"EMAIL": "Email",
 		"FEEDBACK": "FEEDBACK",
 		"FILTER_SEARCH": "Filter",
 		"LOGIN": "Login",
 		"LOGOUT": "Logout",
 		"MY_WORDS": "My Words",
+		"NEW_PASSWORD": "New password",
+		"NEW_PASSWORD_CONFIRM": "Confirm password",
 		"REGISTER": "Register",
+		"SUCCESSFULLY": "Success",
 		"TRAINING": "Training",
 		"USERS": "Users",
+		"VALIDATION_ERROR": {
+			"EMAIL": "Invalid email format",
+			"MIN_LENGTH": "Minimum length: {{value}}",
+			"PASSWORDS_NOT_SAME": "Passwords are different"
+		},
 		"WORDS": "Words"
 	},
 	"COMMENT": {
@@ -47,6 +56,10 @@
 	"FOOTER": {
 		"ABOUT": "About",
 		"CONTACTS": "Contacts"
+	},
+	"FORGOT_PASSWORD": {
+		"SUBMIT": "Send",
+		"TITLE": "Forgot password"
 	},
 	"GLOBAL": {
 		"REQUIRED": "Required"
@@ -71,17 +84,9 @@
 	},
 	"LOGIN": {
 		"EMAIL": "Email",
+		"FORGOT_PASSWORD": "Forgot password?",
 		"LOGIN": "Login",
-		"PASSWORD": "Password",
-		"VALIDATION_ERROR": {
-			"EMAIL": {
-				"REQUIRED": "Email is required",
-				"VALID": "Please enter a valid email address"
-			},
-			"PASSWORD": {
-				"REQUIRED": "Password is required"
-			}
-		}
+		"PASSWORD": "Password"
 	},
 	"NO-CONTENT": {
 		"HEADER": "Oops, that can't be right",
@@ -111,19 +116,11 @@
 		"DISPLAY_NAME": "Display Name",
 		"EMAIL": "Email",
 		"PASSWORD": "Password",
-		"REGISTER": "Register",
-		"VALIDATION_ERROR": {
-			"DISPAY_NAME": {
-				"REQUIRED": "Display name is required"
-			},
-			"EMAIL": {
-				"REQUIRED": "Email is required",
-				"VALID": "Please enter a valid email address"
-			},
-			"PASSWORD": {
-				"REQUIRED": "Password is required"
-			}
-		}
+		"REGISTER": "Register"
+	},
+	"RESET_PASSWORD": {
+		"SUBMIT": "Change",
+		"TITLE": "Set password"
 	},
 	"TRAINING": {
 		"CREATE_DATE": "Creation date",
