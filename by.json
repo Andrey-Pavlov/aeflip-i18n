@@ -50,7 +50,9 @@
 		"YES": ""
 	},
 	"CONTACTS": {
+		"DISCORD": "Discord",
 		"EMAIL": "",
+		"PROGRAMMER": "",
 		"TELEGRAM": ""
 	},
 	"FOOTER": {
@@ -123,6 +125,7 @@
 		"TITLE": ""
 	},
 	"TRAINING": {
+		"CONFIRM_WORD": "",
 		"CREATE_DATE": "",
 		"DISABLE": "",
 		"ENABLE": "",
@@ -132,7 +135,8 @@
 			"ACTIVE": "",
 			"ALL": "",
 			"COMPLETED": "",
-			"QUEUE": ""
+			"QUEUE": "",
+			"TRAIN": ""
 		},
 		"NEXT_TRAINING_DATE": "",
 		"NOTE": "",
@@ -143,6 +147,7 @@
 		"ACTIVE": "",
 		"DONT_REMEMBER": "",
 		"INACTIVE": "",
+		"NEXT_TRAINING": "",
 		"REMEMBER": ""
 	},
 	"USERS": {

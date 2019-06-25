@@ -50,7 +50,9 @@
 		"YES": "Yes"
 	},
 	"CONTACTS": {
+		"DISCORD": "Discord",
 		"EMAIL": "Email",
+		"PROGRAMMER": "Author",
 		"TELEGRAM": "Telegram"
 	},
 	"FOOTER": {
@@ -123,6 +125,7 @@
 		"TITLE": "Set password"
 	},
 	"TRAINING": {
+		"CONFIRM_WORD": "Type original word: {{word}}",
 		"CREATE_DATE": "Creation date",
 		"DISABLE": "Disable this training",
 		"ENABLE": "Enable this training",
@@ -132,7 +135,8 @@
 			"ACTIVE": "Active",
 			"ALL": "All",
 			"COMPLETED": "Completed",
-			"QUEUE": "Queue"
+			"QUEUE": "Queue",
+			"TRAIN": "Train"
 		},
 		"NEXT_TRAINING_DATE": "Next training date",
 		"NOTE": "Note",
@@ -143,6 +147,7 @@
 		"ACTIVE": "Active",
 		"DONT_REMEMBER": "DON'T REMEMBER",
 		"INACTIVE": "Inactive",
+		"NEXT_TRAINING": "Next training",
 		"REMEMBER": "REMEMBER"
 	},
 	"USERS": {

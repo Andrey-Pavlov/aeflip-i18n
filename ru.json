@@ -50,12 +50,14 @@
 		"YES": "Да"
 	},
 	"CONTACTS": {
+		"DISCORD": "Discord",
 		"EMAIL": "Почта",
+		"PROGRAMMER": "Author",
 		"TELEGRAM": "Телеграм"
 	},
 	"FOOTER": {
 		"ABOUT": "О проекте",
-		"CONTACTS": "Связаться с нами"
+		"CONTACTS": "Контакты"
 	},
 	"FORGOT_PASSWORD": {
 		"SUBMIT": "Отправить",
@@ -123,6 +125,7 @@
 		"TITLE": "Сменить пароль"
 	},
 	"TRAINING": {
+		"CONFIRM_WORD": "Введите исходное слово: {{word}}",
 		"CREATE_DATE": "Дата создания",
 		"DISABLE": "Выключить эту тренировку",
 		"ENABLE": "Включить эту тренировку",
@@ -132,7 +135,8 @@
 			"ACTIVE": "Активно",
 			"ALL": "Всего",
 			"COMPLETED": "Завершено",
-			"QUEUE": "В очереди"
+			"QUEUE": "В очереди",
+			"TRAIN": "Учиться"
 		},
 		"NEXT_TRAINING_DATE": "Дата следующей тренировки",
 		"NOTE": "Заметка",
@@ -143,6 +147,7 @@
 		"ACTIVE": "Неактивно",
 		"DONT_REMEMBER": "НЕ ПОМНЮ",
 		"INACTIVE": "Активно",
+		"NEXT_TRAINING": "К следующему слову",
 		"REMEMBER": "ПОМНЮ"
 	},
 	"USERS": {
