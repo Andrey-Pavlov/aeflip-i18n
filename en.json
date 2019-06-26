@@ -38,11 +38,13 @@
 	},
 	"COMMENT": {
 		"APPROVE": "Approve",
+		"COMMENT": "Commentary",
 		"DELETE": "Delete",
 		"DISLIKE": "Dislike",
 		"LIKE": "Like",
 		"MODERATION": "Under moderation",
-		"REPLY": "Reply"
+		"REPLY": "Reply",
+		"SUBMIT": "Send"
 	},
 	"CONFIRM": {
 		"NO": "No",

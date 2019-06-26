@@ -38,11 +38,13 @@
 	},
 	"COMMENT": {
 		"APPROVE": "",
+		"COMMENT": "",
 		"DELETE": "",
 		"DISLIKE": "",
 		"LIKE": "",
 		"MODERATION": "",
-		"REPLY": ""
+		"REPLY": "",
+		"SUBMIT": ""
 	},
 	"CONFIRM": {
 		"NO": "",
