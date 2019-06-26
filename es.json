@@ -112,6 +112,7 @@
 		"NEW_PASSWORD": "",
 		"OLD_PASSWORD": "",
 		"PASSWORDS_NOT_SAME": "",
+		"RESEND_EMAIL_CONFIRMATION": "",
 		"SELECT_IMAGE": "",
 		"SUBMIT": "",
 		"USER_ROLES": ""

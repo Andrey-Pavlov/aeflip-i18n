@@ -112,6 +112,7 @@
 		"NEW_PASSWORD": "Новый пароль",
 		"OLD_PASSWORD": "Старый пароль",
 		"PASSWORDS_NOT_SAME": "Пароли не совпадают",
+		"RESEND_EMAIL_CONFIRMATION": "Подтвердить почту заново",
 		"SELECT_IMAGE": "Выбрать изображение",
 		"SUBMIT": "Сохранить",
 		"USER_ROLES": "Права/роли"
