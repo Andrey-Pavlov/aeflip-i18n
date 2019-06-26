@@ -102,6 +102,7 @@
 	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "Транзакции",
+		"CHANGE_EMAIL": "Напишите нам, если хотите поменять почтовый ящик. На сайте, пока, это сделать нельзя.",
 		"CHANGE_PASSWORD": "Изменить пароль",
 		"COINS_BALANCE": "Баланс",
 		"CREATE_DATE": "Дата создания",
