@@ -13,10 +13,18 @@
 		"SAVE": "Save",
 		"URL_REQUIRED": "Url is required"
 	},
+	"ADMIN_COMMENTS": {
+		"ACTIONS": "Actions",
+		"CREATED_BY": "Author",
+		"CREATE_DATE": "Create date",
+		"ID": "Id",
+		"MESSAGE": "Message"
+	},
 	"APP": {
 		"ADD_WORDS": "Add words",
 		"ADMIN": "Administrator",
 		"CARDS": "Cards",
+		"COMMENTS_LINK": "Comments",
 		"EMAIL": "Email",
 		"FEEDBACK": "FEEDBACK",
 		"FILTER_SEARCH": "Filter",

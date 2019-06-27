@@ -13,10 +13,18 @@
 		"SAVE": "",
 		"URL_REQUIRED": ""
 	},
+	"ADMIN_COMMENTS": {
+		"ACTIONS": "",
+		"CREATED_BY": "",
+		"CREATE_DATE": "",
+		"ID": "",
+		"MESSAGE": ""
+	},
 	"APP": {
 		"ADD_WORDS": "",
 		"ADMIN": "",
 		"CARDS": "",
+		"COMMENTS_LINK": "",
 		"EMAIL": "",
 		"FEEDBACK": "",
 		"FILTER_SEARCH": "",

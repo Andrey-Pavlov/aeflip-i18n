@@ -13,10 +13,18 @@
 		"SAVE": "Сохранить",
 		"URL_REQUIRED": "URL обязательна"
 	},
+	"ADMIN_COMMENTS": {
+		"ACTIONS": "Действия",
+		"CREATED_BY": "Автор",
+		"CREATE_DATE": "Дата",
+		"ID": "№",
+		"MESSAGE": "Сообщение"
+	},
 	"APP": {
 		"ADD_WORDS": "Добавить",
 		"ADMIN": "Администратор",
 		"CARDS": "Карты",
+		"COMMENTS_LINK": "Все комментарии",
 		"EMAIL": "Почта",
 		"FEEDBACK": "ОТЗЫВ",
 		"FILTER_SEARCH": "Фильтр",
