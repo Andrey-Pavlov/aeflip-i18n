@@ -154,6 +154,7 @@
 		"NEXT_TRAINING_DATE": "Next training date",
 		"NOTE": "Note",
 		"NOTE_TOOLTIP": "Click on the row to see your note",
+		"RANDOM_10_WORDS": "Push to add 10 random words for training",
 		"SAVE_NOTE": "Save note",
 		"WORD": "Word"
 	},
