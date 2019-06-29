@@ -64,6 +64,7 @@
 		"DISCORD": "Discord",
 		"EMAIL": "Email",
 		"PROGRAMMER": "Author",
+		"QA": "QA",
 		"TELEGRAM": "Telegram"
 	},
 	"FOOTER": {
@@ -79,12 +80,10 @@
 	},
 	"LANDING": {
 		"ADD": "|dd",
-		"DESCRIPTION": "Finally, a centralized place to learn and train our foreign words.",
-		"EDIT": "|dit",
+		"DESCRIPTION": "Finally, a centralized place to learn and train our foreign words",
+		"LEARN": "L|arn",
 		"LOGIN": "Login",
 		"REGISTER": "Register",
-		"REPEAT": "Repeat",
-		"TRAIN": "Train",
 		"USERS": "Users",
 		"WORDS": "Words",
 		"WORDS_COMPLETED": "Words completed",

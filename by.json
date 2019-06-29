@@ -64,6 +64,7 @@
 		"DISCORD": "Discord",
 		"EMAIL": "",
 		"PROGRAMMER": "",
+		"QA": "",
 		"TELEGRAM": ""
 	},
 	"FOOTER": {
@@ -80,11 +81,9 @@
 	"LANDING": {
 		"ADD": "",
 		"DESCRIPTION": "",
-		"EDIT": "",
+		"LEARN": "",
 		"LOGIN": "",
 		"REGISTER": "",
-		"REPEAT": "",
-		"TRAIN": "",
 		"USERS": "",
 		"WORDS": "",
 		"WORDS_COMPLETED": "",
