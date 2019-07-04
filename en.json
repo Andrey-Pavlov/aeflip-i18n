@@ -37,6 +37,7 @@
 		"REGISTER": "Register",
 		"SUCCESSFULLY": "Success",
 		"TRAINING": "Training",
+		"UNSUCCESSFULLY": "Unsuccess",
 		"USERS": "Users",
 		"VALIDATION_ERROR": {
 			"EMAIL": "Invalid email format",

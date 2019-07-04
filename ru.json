@@ -37,6 +37,7 @@
 		"REGISTER": "Регистрация",
 		"SUCCESSFULLY": "Успешно",
 		"TRAINING": "Тренировать",
+		"UNSUCCESSFULLY": "Неудачно",
 		"USERS": "Пользователи",
 		"VALIDATION_ERROR": {
 			"EMAIL": "Неправильный формат почты",
