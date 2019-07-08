@@ -1,8 +1,59 @@
 {
 	"ABOUT": {
-		"BYE": "",
-		"DESCRIPTION": "",
-		"HELLO": ""
+		"FEATURES": {
+			"DESCRIPTION": "",
+			"FEATURES_1": "",
+			"FEATURES_10": "",
+			"FEATURES_2": "",
+			"FEATURES_3": "",
+			"FEATURES_4": "",
+			"FEATURES_5": "",
+			"FEATURES_6": "",
+			"FEATURES_7": "",
+			"FEATURES_8": "",
+			"FEATURES_9": "",
+			"PIMSLEUR": ""
+		},
+		"FEEDBACK": "",
+		"IN_DEVELOPMENT": {
+			"DESCRIPTION": "",
+			"IN_DEVELOPMENT_1": "",
+			"IN_DEVELOPMENT_2": "",
+			"IN_DEVELOPMENT_3": ""
+		},
+		"MONETIZATION": {
+			"ADDITIONAL_TEXT": "",
+			"ADDITIONAL_TITLE": "",
+			"DESCRIPTION": "",
+			"MAIN_TEXT": "",
+			"MAIN_TITLE": ""
+		},
+		"PLANS": {
+			"DESCRIPTION": "",
+			"PLAN_1": "",
+			"PLAN_10": "",
+			"PLAN_11": "",
+			"PLAN_12": "",
+			"PLAN_13": "",
+			"PLAN_2": "",
+			"PLAN_3": "",
+			"PLAN_4": "",
+			"PLAN_5": "",
+			"PLAN_6": "",
+			"PLAN_7": "",
+			"PLAN_8": "",
+			"PLAN_9": ""
+		},
+		"SOCIAL_MODEL": {
+			"DESCRIPTION": "",
+			"SOCIAL_MODEL_1": "",
+			"SOCIAL_MODEL_2": "",
+			"SOCIAL_MODEL_3": ""
+		},
+		"TITLE": {
+			"NAME": "",
+			"TEXT": ""
+		}
 	},
 	"ADD_CARD_IMAGE": {
 		"CANCEL": "",
@@ -27,7 +78,6 @@
 		"COMMENTS_LINK": "",
 		"EMAIL": "",
 		"FEEDBACK": "",
-		"FILTER_SEARCH": "",
 		"LANGUAGE_SELECT": "",
 		"LOGIN": "",
 		"LOGOUT": "",

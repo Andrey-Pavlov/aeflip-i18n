@@ -1,8 +1,59 @@
 {
 	"ABOUT": {
-		"BYE": "Thank you for visiting!",
-		"DESCRIPTION": "[AutoTranslate]: We (together) make this application to help learn foreign languages. It’s just a good tool and it’s not teach you the language, as well as other sites and resources that promise you that. Only you yourself can teach yourself through labor and time. We would be very grateful for any |feedback or request| that help us improve this resource.",
-		"HELLO": "Hi!"
+		"FEATURES": {
+			"DESCRIPTION": "Features:",
+			"FEATURES_1": "translation of the word, its audio pronunciation and definition in 16 languages: Arabic, Brazilian, Chinese, Czech, Dutch, English, French, German, Hindi, Italian, Japanese, Korean, Russian, Slovak, Turkish, Spanish",
+			"FEATURES_10": "direct feedback with the developers",
+			"FEATURES_2": "the system supports only translations for other languages",
+			"FEATURES_3": "cross-training: german-spanish, hindi-chinese and etc",
+			"FEATURES_4": "random words for training",
+			"FEATURES_5": "loading and adding words from texts",
+			"FEATURES_6": "training in Pimsleur's graduated-interval recall",
+			"FEATURES_7": "preloaded images for words",
+			"FEATURES_8": "add any personal images",
+			"FEATURES_9": "communication through comments is available on each page, Telegram and Discord",
+			"PIMSLEUR": "https://en.wikipedia.org/wiki/Spaced_repetition"
+		},
+		"FEEDBACK": "If you have any questions and suggestions, please write to telegram, discord, comments (yes, we read them)",
+		"IN_DEVELOPMENT": {
+			"DESCRIPTION": "In development:",
+			"IN_DEVELOPMENT_1": "you can download all added words",
+			"IN_DEVELOPMENT_2": "download files and words from them (books, .txt, subtitles)",
+			"IN_DEVELOPMENT_3": "forum"
+		},
+		"MONETIZATION": {
+			"ADDITIONAL_TEXT": "Collectible card game (collectible cards), game currency, gaming market. You can buy, sell, exchange unique word-cards. For regular training users will receive cards. Super rare cards may have abilities, such as discounts on the card market, an increased chance of dropping more rare cards, etc.",
+			"ADDITIONAL_TITLE": "Additional monetization:",
+			"DESCRIPTION": "We’re looking for ways to monetize the project in order to pay for servers and to hire developers. The current plan is:",
+			"MAIN_TEXT": "Free and paid accounts (freemium). Paid subscription with additional functionality or free accounts with reduced functionality.",
+			"MAIN_TITLE": "Main monetization:"
+		},
+		"PLANS": {
+			"DESCRIPTION": "Plans:",
+			"PLAN_1": "mobile application",
+			"PLAN_10": "associations, synonyms, antonyms, idioms",
+			"PLAN_11": "calculation of the difficulty of memorizing a word, showing its complexity factor",
+			"PLAN_12": "voice typing",
+			"PLAN_13": "a book reader from which you can add words or an application assistant when reading paper books, i.e. alphabetical list of words from the book in the phone, where you can pry while reading",
+      "PLAN_2": "browser extension to add words from the page",
+			"PLAN_3": "notification when it is time to train",
+			"PLAN_4": "evaluation of your vocabulary level",
+			"PLAN_5": "puzzle game with words (time trial, crossword)",
+			"PLAN_6": "ability to create professional categories and groups where the teacher gives words to study, monitors and sees students process",
+			"PLAN_7": "creation family accounts, groups",
+			"PLAN_8": "thematic word sets, as in Anki",
+			"PLAN_9": "frequency list of words (most popular)"
+		},
+		"SOCIAL_MODEL": {
+			"DESCRIPTION": "Social model:",
+			"SOCIAL_MODEL_1": "free for school students forever",
+			"SOCIAL_MODEL_2": "without advertising",
+			"SOCIAL_MODEL_3": "without discounts and sales, the price of a subscription will always be acceptable according to the region"
+		},
+		"TITLE": {
+			"NAME": "aeflip.com",
+			"TEXT": "is a single global platform to learn and train a foreign language vocabulary through interval repetitions."
+		}
 	},
 	"ADD_CARD_IMAGE": {
 		"CANCEL": "Cancel",
@@ -27,7 +78,6 @@
 		"COMMENTS_LINK": "Comments",
 		"EMAIL": "Email",
 		"FEEDBACK": "FEEDBACK",
-		"FILTER_SEARCH": "Filter",
 		"LANGUAGE_SELECT": "Language",
 		"LOGIN": "Login",
 		"LOGOUT": "Logout",
