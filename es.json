@@ -118,6 +118,50 @@
 		"QA": "",
 		"TELEGRAM": ""
 	},
+	"FAQ": {
+		"Q1": {
+			"A": "",
+			"Q": ""
+		},
+		"Q2": {
+			"A_LIST": {
+				"1": "",
+				"2": "",
+				"3": "",
+				"4": "",
+				"5": "",
+				"6": ""
+			},
+			"A_LIST_TITLE": "",
+			"A_PART1_DESCRIPTION": "",
+			"A_PART2_DESCRIPTION": "",
+			"A_PART3_DESCRIPTION": "",
+			"Q": ""
+		},
+		"Q3": {
+			"A_PART1_DESCRIPTION": "",
+			"A_PART1_LIST": {
+				"1": "",
+				"2": "",
+				"3": ""
+			},
+			"A_PART2_DESCRIPTION": "",
+			"A_PART3_DESCRIPTION1": "",
+			"A_PART3_DESCRIPTION2": "",
+			"A_PART3_LIST": {
+				"1": "",
+				"2": "",
+				"3": "",
+				"4": ""
+			},
+			"Q": ""
+		},
+		"Q4": {
+			"A_LINK": "",
+			"A_TEXT": "",
+			"Q": ""
+		}
+	},
 	"FOOTER": {
 		"ABOUT": "",
 		"CONTACTS": ""

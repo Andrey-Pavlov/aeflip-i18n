@@ -35,7 +35,7 @@
 			"PLAN_11": "calculation of the difficulty of memorizing a word, showing its complexity factor",
 			"PLAN_12": "voice typing",
 			"PLAN_13": "a book reader from which you can add words or an application assistant when reading paper books, i.e. alphabetical list of words from the book in the phone, where you can pry while reading",
-      "PLAN_2": "browser extension to add words from the page",
+			"PLAN_2": "browser extension to add words from the page",
 			"PLAN_3": "notification when it is time to train",
 			"PLAN_4": "evaluation of your vocabulary level",
 			"PLAN_5": "puzzle game with words (time trial, crossword)",
@@ -118,6 +118,50 @@
 		"QA": "QA",
 		"TELEGRAM": "Telegram"
 	},
+	"FAQ": {
+		"Q1": {
+			"A": "The grapheme Æ / æ (Ash) has always seemed mysterious. To me, as a native speaker of Russian (Cyrillic), this symbol always seemed to be a symbol of a foreign language (Latin). Our acquaintance with English language begins with the transcriptions of the simplest words and they include the grapheme: cat, rat, bat. I decided to take this symbol and mystify it. Therefore, the inverted Ash on the logo with the word “flip” means a coup and it turns out to be “aeflip.com”. There is also a personal meaning in this name for me – the meaning of friendship.",
+			"Q": "Why the project is called aeflip?"
+		},
+		"Q2": {
+			"A_LIST": {
+				"1": "You need to monitor the intervals between repetitions yourself.",
+				"2": "There is a lack of study techniques.",
+				"3": "There is no schedule (I would say that you need a schedule, discipline and mode, and the most important is a passion. Many do not even want to find 15 minutes to “click on the buttons on the Internet ”, Which means that learning is not important for them)",
+				"4": "It is necessary to add words manually and one by one",
+				"5": "It’s impossible to download your data from the current system and go to another",
+				"6": "Words are shown not the oldest ones but the most recently added words. The best way is to train the oldest words first."
+			},
+			"A_LIST_TITLE": "The main flaws of this kind of complex application:",
+			"A_PART1_DESCRIPTION": "I always hated writing words in a dictionary in three columns.The thing that I hated the most was scribing dozens of pages forward along the ruler, and the rewriting of words and transcriptions made me depressed. My experience of using complex software for learning English is negative. In many ways, existing applications are just click-bait, which promise easy learning, full of fun, without the need to spend any forces: listening, grammar, words, watching TV series, books, jokes and other attributes of the social network, all for your money and all year round at super discounts. I do not deny that this could be an interesting experience, but I want to correct right away that it will be superficial in all aspects. These kinds of applications allow you to take the first step or just allow you to feel inside that \"I am a good fellow, I do something useful. Hooray, I’ve fed a mascot in a fur coat,\" but in fact it is just a waste of time. Each topic of language learning should be deep.",
+			"A_PART2_DESCRIPTION": "Imagine that there would be the opportunity just in one click add different meanings of words and contexts from books, english-to-english translation, associations, synonyms, antonyms, idioms and would have the opportunity to see the difficulty of remembering a word, to read the comments of people - \"This UK English word in the US English is often replaced by <word_placeholder>\", to receive notifications by the phone with the possibility of taking actions on the locked screen. (no one likes notifications but I'm sure everyone receives some notifications anyway, for example, google news or cafe rating reminders and etc).",
+			"A_PART3_DESCRIPTION": "In order to study grammar you need to read books, do exercises, make sentences. For listening comprehension it is necessary to listen, relisten and make transcripts. So as to talk you need to talk with people. The effort must still be applied. The idea is to make an application which will help to apply efforts for studying words more efficiently.",
+			"Q": "Why this application was created at all? What problem should it solve?"
+		},
+		"Q3": {
+			"A_PART1_DESCRIPTION": "We should remember that Anki is not a foreign language learning software. It is a customizable system for interval learning using cards with a variety of settings that are not necessary for most users. It does not solve all the problems, but only simplifies few of them if you set up three habits:",
+			"A_PART1_LIST": {
+				"1": "looking into Anki every day",
+				"2": "for random word encounters - for catching words on the fly and putting them into the system (phrases from films subtitles, observations from life and other things that you’ll forget tomorrow if they are not recorded immediately);",
+				"3": "for prepared words - underlining from books, new phrases from classes with a teacher and other notes that can be found and processed in bulk must be added to the system once a week."
+			},
+			"A_PART2_DESCRIPTION": "Do you feel how learning is turning into work on the assembly line?",
+			"A_PART3_DESCRIPTION1": "Of course, you can take card pack but if you want to keep your own notes then there are problems:",
+			"A_PART3_DESCRIPTION2": "Aeflip is created to be convenient for you and me without overwhelming by complex setup.",
+			"A_PART3_LIST": {
+				"1": "Adding phrases (creating new cards) in Anki is convenient only on a PC. It is possible to do the same on a phone but troublesome. You think twice... and wave your hand to Anki.",
+				"2": "Annoying sync, slow and sad. Sooner or later this slowness begins to get on your nerves and you no longer synchronize anything.",
+				"3": "Anki decides what you must repeat today. If you want to find a specific phrase it is relatively convenient to do this only on a laptop and it takes some time. The mobile application provides only uncomfortable manipulations.",
+				"4": "How to add all the words from the text with pictures, audio, descriptions and notes? There is no way."
+			},
+			"Q": "And what if you compare this application with Anki?"
+		},
+		"Q4": {
+			"A_LINK": "",
+			"A_TEXT": "Yes, you can! Improving the application makes it more convenient for yourself. At the moment, the application can be supported by feedback or participation in testing, in the future it will be possible to help by subscription or donation. You can also help with translating the site interface to other languages. Translations files are stored here in public access: |https://github.com/Andrey-Pavlov/aeflip-i18n|. You can also report a description of bugs and problems found by using the same link on “Issues” tab. Thanks!",
+			"Q": "Can I help the project somehow?"
+		}
+	},
 	"FOOTER": {
 		"ABOUT": "About",
 		"CONTACTS": "Contacts"
@@ -173,7 +217,7 @@
 		"OLD_PASSWORD": "Old password",
 		"PASSWORDS_NOT_SAME": "Passwords aren't the same",
 		"RESEND_EMAIL_CONFIRMATION": "Re-send email confirmation link",
-		"SELECT_IMAGE": "Select image",
+		"SELECT_IMAGE": "Avatar",
 		"SUBMIT": "Save",
 		"USER_ROLES": "User roles"
 	},
