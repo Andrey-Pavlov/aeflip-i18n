@@ -1,8 +1,59 @@
 {
 	"ABOUT": {
-		"BYE": "",
-		"DESCRIPTION": "",
-		"HELLO": ""
+		"FEATURES": {
+			"DESCRIPTION": "",
+			"FEATURES_1": "",
+			"FEATURES_10": "",
+			"FEATURES_2": "",
+			"FEATURES_3": "",
+			"FEATURES_4": "",
+			"FEATURES_5": "",
+			"FEATURES_6": "",
+			"FEATURES_7": "",
+			"FEATURES_8": "",
+			"FEATURES_9": "",
+			"PIMSLEUR": ""
+		},
+		"FEEDBACK": "",
+		"IN_DEVELOPMENT": {
+			"DESCRIPTION": "",
+			"IN_DEVELOPMENT_1": "",
+			"IN_DEVELOPMENT_2": "",
+			"IN_DEVELOPMENT_3": ""
+		},
+		"MONETIZATION": {
+			"ADDITIONAL_TEXT": "",
+			"ADDITIONAL_TITLE": "",
+			"DESCRIPTION": "",
+			"MAIN_TEXT": "",
+			"MAIN_TITLE": ""
+		},
+		"PLANS": {
+			"DESCRIPTION": "",
+			"PLAN_1": "",
+			"PLAN_10": "",
+			"PLAN_11": "",
+			"PLAN_12": "",
+			"PLAN_13": "",
+			"PLAN_2": "",
+			"PLAN_3": "",
+			"PLAN_4": "",
+			"PLAN_5": "",
+			"PLAN_6": "",
+			"PLAN_7": "",
+			"PLAN_8": "",
+			"PLAN_9": ""
+		},
+		"SOCIAL_MODEL": {
+			"DESCRIPTION": "",
+			"SOCIAL_MODEL_1": "",
+			"SOCIAL_MODEL_2": "",
+			"SOCIAL_MODEL_3": ""
+		},
+		"TITLE": {
+			"NAME": "",
+			"TEXT": ""
+		}
 	},
 	"ADD_CARD_IMAGE": {
 		"CANCEL": "",
@@ -13,13 +64,21 @@
 		"SAVE": "",
 		"URL_REQUIRED": ""
 	},
+	"ADMIN_COMMENTS": {
+		"ACTIONS": "",
+		"CREATED_BY": "",
+		"CREATE_DATE": "",
+		"ID": "",
+		"MESSAGE": ""
+	},
 	"APP": {
 		"ADD_WORDS": "",
 		"ADMIN": "",
 		"CARDS": "",
+		"COMMENTS_LINK": "",
 		"EMAIL": "",
 		"FEEDBACK": "",
-		"FILTER_SEARCH": "",
+		"LANGUAGE_SELECT": "",
 		"LOGIN": "",
 		"LOGOUT": "",
 		"MY_WORDS": "",
@@ -28,6 +87,7 @@
 		"REGISTER": "",
 		"SUCCESSFULLY": "",
 		"TRAINING": "",
+		"UNSUCCESSFULLY": "",
 		"USERS": "",
 		"VALIDATION_ERROR": {
 			"EMAIL": "",
@@ -38,11 +98,13 @@
 	},
 	"COMMENT": {
 		"APPROVE": "",
+		"COMMENT": "",
 		"DELETE": "",
 		"DISLIKE": "",
 		"LIKE": "",
 		"MODERATION": "",
-		"REPLY": ""
+		"REPLY": "",
+		"SUBMIT": ""
 	},
 	"CONFIRM": {
 		"NO": "",
@@ -53,11 +115,56 @@
 		"DISCORD": "Discord",
 		"EMAIL": "",
 		"PROGRAMMER": "",
+		"QA": "",
 		"TELEGRAM": ""
+	},
+	"FAQ": {
+		"Q1": {
+			"A": "",
+			"Q": ""
+		},
+		"Q2": {
+			"A_LIST": {
+				"1": "",
+				"2": "",
+				"3": "",
+				"4": "",
+				"5": "",
+				"6": ""
+			},
+			"A_LIST_TITLE": "",
+			"A_PART1_DESCRIPTION": "",
+			"A_PART2_DESCRIPTION": "",
+			"A_PART3_DESCRIPTION": "",
+			"Q": ""
+		},
+		"Q3": {
+			"A_PART1_DESCRIPTION": "",
+			"A_PART1_LIST": {
+				"1": "",
+				"2": "",
+				"3": ""
+			},
+			"A_PART2_DESCRIPTION": "",
+			"A_PART3_DESCRIPTION1": "",
+			"A_PART3_DESCRIPTION2": "",
+			"A_PART3_LIST": {
+				"1": "",
+				"2": "",
+				"3": "",
+				"4": ""
+			},
+			"Q": ""
+		},
+		"Q4": {
+			"A_TEXT": "",
+			"Q": ""
+		}
 	},
 	"FOOTER": {
 		"ABOUT": "",
-		"CONTACTS": ""
+		"CONTACTS": "",
+		"FAQ": ""
 	},
 	"FORGOT_PASSWORD": {
 		"SUBMIT": "",
@@ -69,11 +176,9 @@
 	"LANDING": {
 		"ADD": "",
 		"DESCRIPTION": "",
-		"EDIT": "",
+		"LEARN": "",
 		"LOGIN": "",
 		"REGISTER": "",
-		"REPEAT": "",
-		"TRAIN": "",
 		"USERS": "",
 		"WORDS": "",
 		"WORDS_COMPLETED": "",
@@ -100,6 +205,7 @@
 	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "",
+		"CHANGE_EMAIL": "",
 		"CHANGE_PASSWORD": "",
 		"COINS_BALANCE": "",
 		"CREATE_DATE": "",
@@ -110,6 +216,7 @@
 		"NEW_PASSWORD": "",
 		"OLD_PASSWORD": "",
 		"PASSWORDS_NOT_SAME": "",
+		"RESEND_EMAIL_CONFIRMATION": "",
 		"SELECT_IMAGE": "",
 		"SUBMIT": "",
 		"USER_ROLES": ""
@@ -140,6 +247,8 @@
 		},
 		"NEXT_TRAINING_DATE": "",
 		"NOTE": "",
+		"NOTE_TOOLTIP": "",
+		"RANDOM_10_WORDS": "",
 		"SAVE_NOTE": "",
 		"WORD": ""
 	},
