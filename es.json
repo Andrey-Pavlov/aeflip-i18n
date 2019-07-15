@@ -1,37 +1,37 @@
 {
 	"ABOUT": {
 		"FEATURES": {
-			"DESCRIPTION": "",
+			"DESCRIPTION": "Opciones:",
 			"FEATURES_1": "",
-			"FEATURES_10": "",
-			"FEATURES_2": "",
-			"FEATURES_3": "",
-			"FEATURES_4": "",
-			"FEATURES_5": "",
-			"FEATURES_6": "",
-			"FEATURES_7": "",
-			"FEATURES_8": "",
-			"FEATURES_9": "",
-			"PIMSLEUR": ""
+			"FEATURES_10": "retroalimentación directa con los desarrolladores",
+			"FEATURES_2": "posibilidad de agregar solamente traducciones de palabras sin descripción: Aquellas que no figuran en los 16 idíomas disponibles",
+			"FEATURES_3": "Entrenamientro cruzado alemano-español, hindo-chino",
+			"FEATURES_4": "palabras aleatorias de entrenamiento",
+			"FEATURES_5": "subida e inserción de palabras a partir de textos",
+			"FEATURES_6": "entrenamiento segun Pimsleur's graduated-intervall recall",
+			"FEATURES_7": "imágenes precargadas para las palabras",
+			"FEATURES_8": "inserción de imágenes personalizadas",
+			"FEATURES_9": "comunicación mediante comentarios para cada página, Telegram y Discord",
+			"PIMSLEUR": "https://es.wikipedia.org/wiki/Repaso_espaciado"
 		},
-		"FEEDBACK": "",
+		"FEEDBACK": "Si tienes preguntas o sugerencias, escríbenos por Telegram, Discord, mediante comentarios (sí, los leemos y los tenemos en cuenta)",
 		"IN_DEVELOPMENT": {
-			"DESCRIPTION": "",
-			"IN_DEVELOPMENT_1": "",
-			"IN_DEVELOPMENT_2": "",
-			"IN_DEVELOPMENT_3": ""
+			"DESCRIPTION": "En desarrollo",
+			"IN_DEVELOPMENT_1": "se pueden subir todas las palabras añadidas",
+			"IN_DEVELOPMENT_2": "subida de archivos y palabras a partir de éstos (archivos tales como libros, .txt, subtitulos)",
+			"IN_DEVELOPMENT_3": "forum"
 		},
 		"MONETIZATION": {
 			"ADDITIONAL_TEXT": "",
-			"ADDITIONAL_TITLE": "",
-			"DESCRIPTION": "",
+			"ADDITIONAL_TITLE": "Monetización adicional:",
+			"DESCRIPTION": "Se busca la forma de monetización para pagos de servidores y honorarios de desarrolladores. El estado actual es:",
 			"MAIN_TEXT": "",
-			"MAIN_TITLE": ""
+			"MAIN_TITLE": "Monetización principal:"
 		},
 		"PLANS": {
-			"DESCRIPTION": "",
-			"PLAN_1": "",
-			"PLAN_10": "",
+			"DESCRIPTION": "Pensando desarrollar:",
+			"PLAN_1": "Aplicacion para moviles",
+			"PLAN_10": "Asociaciones, sinonimos, antonimos, modimos",
 			"PLAN_11": "",
 			"PLAN_12": "",
 			"PLAN_13": "",
