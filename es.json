@@ -1,139 +1,139 @@
 {
 	"ABOUT": {
 		"FEATURES": {
-			"DESCRIPTION": "",
+			"DESCRIPTION": "Opciones:",
 			"FEATURES_1": "",
-			"FEATURES_10": "",
-			"FEATURES_2": "",
-			"FEATURES_3": "",
-			"FEATURES_4": "",
-			"FEATURES_5": "",
-			"FEATURES_6": "",
-			"FEATURES_7": "",
-			"FEATURES_8": "",
-			"FEATURES_9": "",
-			"PIMSLEUR": ""
+			"FEATURES_10": "retroalimentación directa con los desarrolladores",
+			"FEATURES_2": "posibilidad de agregar solamente traducciones de palabras sin descripción: Aquellas que no figuran en los 16 idíomas disponibles",
+			"FEATURES_3": "Entrenamientro cruzado alemano-español, hindo-chino",
+			"FEATURES_4": "palabras aleatorias de entrenamiento",
+			"FEATURES_5": "subida e inserción de palabras a partir de textos",
+			"FEATURES_6": "entrenamiento segun Pimsleur's graduated-intervall recall",
+			"FEATURES_7": "imágenes precargadas para las palabras",
+			"FEATURES_8": "inserción de imágenes personalizadas",
+			"FEATURES_9": "comunicación mediante comentarios para cada página, Telegram y Discord",
+			"PIMSLEUR": "https://es.wikipedia.org/wiki/Repaso_espaciado"
 		},
-		"FEEDBACK": "",
+		"FEEDBACK": "Si tienes preguntas o sugerencias, escríbenos por Telegram, Discord, mediante comentarios (sí, los leemos y los tenemos en cuenta)",
 		"IN_DEVELOPMENT": {
-			"DESCRIPTION": "",
-			"IN_DEVELOPMENT_1": "",
-			"IN_DEVELOPMENT_2": "",
-			"IN_DEVELOPMENT_3": ""
+			"DESCRIPTION": "En desarrollo",
+			"IN_DEVELOPMENT_1": "se pueden subir todas las palabras añadidas",
+			"IN_DEVELOPMENT_2": "subida de archivos y palabras a partir de éstos (archivos tales como libros, .txt, subtitulos)",
+			"IN_DEVELOPMENT_3": "forum"
 		},
 		"MONETIZATION": {
 			"ADDITIONAL_TEXT": "",
-			"ADDITIONAL_TITLE": "",
-			"DESCRIPTION": "",
+			"ADDITIONAL_TITLE": "Monetización adicional:",
+			"DESCRIPTION": "Se busca la forma de monetización para pagos de servidores y honorarios de desarrolladores. El estado actual es:",
 			"MAIN_TEXT": "",
-			"MAIN_TITLE": ""
+			"MAIN_TITLE": "Monetización principal:"
 		},
 		"PLANS": {
-			"DESCRIPTION": "",
-			"PLAN_1": "",
-			"PLAN_10": "",
-			"PLAN_11": "",
-			"PLAN_12": "",
-			"PLAN_13": "",
-			"PLAN_2": "",
+			"DESCRIPTION": "Pensando desarrollar:",
+			"PLAN_1": "aplicacion para moviles",
+			"PLAN_10": "asociaciones, sinonimos, antonimos, modimos",
+			"PLAN_11": "computo de dificultad para recordar una palabra, muestra del coeficiente de dificultad",
+			"PLAN_12": "de voz a texto",
+			"PLAN_13": "extension para el navegador para agregar palabras desde la página",
+			"PLAN_2": "notificaciones sobre el tiempo de comenzar a estudiar",
 			"PLAN_3": "",
-			"PLAN_4": "",
+			"PLAN_4": "juegos-rompecabezas con palabras (responder contra reloj, crucigramas)",
 			"PLAN_5": "",
-			"PLAN_6": "",
+			"PLAN_6": "creación de cuentas familiares, grupos",
 			"PLAN_7": "",
-			"PLAN_8": "",
-			"PLAN_9": ""
+			"PLAN_8": "recoleccion temática de palabras, como en Anki",
+			"PLAN_9": "frecuencia del listado de palabras (las más populares)"
 		},
 		"SOCIAL_MODEL": {
-			"DESCRIPTION": "",
-			"SOCIAL_MODEL_1": "",
-			"SOCIAL_MODEL_2": "",
+			"DESCRIPTION": "modelo social",
+			"SOCIAL_MODEL_1": "gratis para estudiantes de escuela por siempre",
+			"SOCIAL_MODEL_2": "sin publicidad",
 			"SOCIAL_MODEL_3": ""
 		},
 		"TITLE": {
-			"NAME": "",
+			"NAME": "aeflip.com",
 			"TEXT": ""
 		}
 	},
 	"ADD_CARD_IMAGE": {
-		"CANCEL": "",
-		"DELETE": "",
-		"EDIT": "",
-		"IMAGE_URL": "",
-		"INVALID_IMAGE_FORMAT": "",
-		"SAVE": "",
-		"URL_REQUIRED": ""
+		"CANCEL": "cencelar",
+		"DELETE": "borrar",
+		"EDIT": "editar",
+		"IMAGE_URL": "dirección URL",
+		"INVALID_IMAGE_FORMAT": "dirección URL incorrecta",
+		"SAVE": "guardar",
+		"URL_REQUIRED": "URL requerida"
 	},
 	"ADMIN_COMMENTS": {
-		"ACTIONS": "",
-		"CREATED_BY": "",
-		"CREATE_DATE": "",
-		"ID": "",
-		"MESSAGE": ""
+		"ACTIONS": "acciones",
+		"CREATED_BY": "autor",
+		"CREATE_DATE": "creado el",
+		"ID": "Nro",
+		"MESSAGE": "mensaje"
 	},
 	"APP": {
-		"ADD_WORDS": "",
-		"ADMIN": "",
-		"CARDS": "",
-		"COMMENTS_LINK": "",
-		"EMAIL": "",
+		"ADD_WORDS": "agregar",
+		"ADMIN": "administrador",
+		"CARDS": "cartas",
+		"COMMENTS_LINK": "todos los comentarios",
+		"EMAIL": "correo",
 		"FEEDBACK": "",
-		"LANGUAGE_SELECT": "",
-		"LOGIN": "",
-		"LOGOUT": "",
-		"MY_WORDS": "",
-		"NEW_PASSWORD": "",
-		"NEW_PASSWORD_CONFIRM": "",
-		"REGISTER": "",
-		"SUCCESSFULLY": "",
-		"TRAINING": "",
-		"UNSUCCESSFULLY": "",
-		"USERS": "",
+		"LANGUAGE_SELECT": "idioma de la aplicación",
+		"LOGIN": "ingresar",
+		"LOGOUT": "salir",
+		"MY_WORDS": "mis palabras",
+		"NEW_PASSWORD": "contraseña",
+		"NEW_PASSWORD_CONFIRM": "confirmar contraseña",
+		"REGISTER": "registro",
+		"SUCCESSFULLY": "exitoso",
+		"TRAINING": "entrenar",
+		"UNSUCCESSFULLY": "fracasado",
+		"USERS": "usuarios",
 		"VALIDATION_ERROR": {
-			"EMAIL": "",
-			"MIN_LENGTH": "",
-			"PASSWORDS_NOT_SAME": ""
+			"EMAIL": "formato de correo incorrecto",
+			"MIN_LENGTH": "mínimo de: {{value}}",
+			"PASSWORDS_NOT_SAME": "las contraseñas no concuerdan"
 		},
-		"WORDS": ""
+		"WORDS": "palabras en el sistema"
 	},
 	"COMMENT": {
-		"APPROVE": "",
-		"COMMENT": "",
-		"DELETE": "",
-		"DISLIKE": "",
-		"LIKE": "",
-		"MODERATION": "",
-		"REPLY": "",
-		"SUBMIT": ""
+		"APPROVE": "aprobar",
+		"COMMENT": "comentario",
+		"DELETE": "borrar",
+		"DISLIKE": "no me gusta",
+		"LIKE": "me gusta",
+		"MODERATION": "bajo revisión",
+		"REPLY": "responder",
+		"SUBMIT": "enviar"
 	},
 	"CONFIRM": {
-		"NO": "",
-		"SURE": "",
-		"YES": ""
+		"NO": "no",
+		"SURE": "Seguro?",
+		"YES": "si"
 	},
 	"CONTACTS": {
 		"DISCORD": "Discord",
-		"EMAIL": "",
-		"PROGRAMMER": "",
-		"QA": "",
-		"TELEGRAM": ""
+		"EMAIL": "correo",
+		"PROGRAMMER": "autor",
+		"QA": "comprobaciones",
+		"TELEGRAM": "Telegram"
 	},
 	"FAQ": {
 		"Q1": {
 			"A": "",
-			"Q": ""
+			"Q": "¿Por qué se llama aeflip?"
 		},
 		"Q2": {
 			"A_LIST": {
-				"1": "",
-				"2": "",
+				"1": "Los intervalos entre repeticiones hay que estar verificándolos por su propia cuenta",
+				"2": "Insuficiente técnica de estudio",
 				"3": "",
-				"4": "",
+				"4": "Hay que agregar palabras manualmente y una por una",
 				"5": "",
-				"6": ""
+				"6": "De primeras se muestran las palabras agregadas recientemente, mas nó las menos recientes, palabras que probablemente ya estés olvidando"
 			},
 			"A_LIST_TITLE": "",
-			"A_PART1_DESCRIPTION": "",
+			"A_PART1_DESCRIPTION": "Siempre he odiado escribir las palabras en el cuadernico en columnas de a tres. En especial odio trazar las lineas verticales en una decena de paginas por adelantado, y transcribir las palabras y sus transcripciones por lo general me colman de depresión. Mi experiencia utilizando programas de computador para estudiar ingles es negativa. La gran cantidad de aplicativos existentes son una perida de tiempo, son programas que prometen un estudio fácil del idioma, mucha diversión mediante una conexión fantástica y directa con el cerebro(estoy exagerando), y prometen que sin ningun tipo de esfuerzo se puede aprender: escucha, gramatica, palabras, seriales, libros, chistes entre otras formas salidas de las redes sociales, y todo eso a costas de tu bolsillo con super descuentos por todo el año. No lo niego, es un buen intento, puede dar la sensación de que estas en el camino correcto, pero por lo general ese tipo de cursos son por el rato. Estudiar un idioma extranjero debe ser de forma seria.",
 			"A_PART2_DESCRIPTION": "",
 			"A_PART3_DESCRIPTION": "",
 			"Q": ""
@@ -162,142 +162,142 @@
 		}
 	},
 	"FOOTER": {
-		"ABOUT": "",
-		"CONTACTS": "",
-		"FAQ": ""
+		"ABOUT": "Acerca del proyecto",
+		"CONTACTS": "Contactos",
+		"FAQ": "FAQ"
 	},
 	"FORGOT_PASSWORD": {
-		"SUBMIT": "",
-		"TITLE": ""
+		"SUBMIT": "Enviar",
+		"TITLE": "Reestablecer contraseña"
 	},
 	"GLOBAL": {
-		"REQUIRED": ""
+		"REQUIRED": "Requerido"
 	},
 	"LANDING": {
-		"ADD": "",
-		"DESCRIPTION": "",
-		"LEARN": "",
-		"LOGIN": "",
-		"REGISTER": "",
-		"USERS": "",
-		"WORDS": "",
-		"WORDS_COMPLETED": "",
-		"WORDS_IN_QUEUE": "",
-		"WORDS_WAITING_TRAINING": ""
+		"ADD": "Agregar",
+		"DESCRIPTION": "Por fin un sitio centralizado para el aprendizaje y entrenamiento de palabras en lengua extranjera",
+		"LEARN": "Entrenar",
+		"LOGIN": "Ingresar",
+		"REGISTER": "Registrarse",
+		"USERS": "Usuarios",
+		"WORDS": "Palabras",
+		"WORDS_COMPLETED": "Palabras aprendidas",
+		"WORDS_IN_QUEUE": "Palabras pendientes",
+		"WORDS_WAITING_TRAINING": "Palabras para entrenar"
 	},
 	"LANGUAGE_SELECTOR": {
-		"FROM": "",
-		"TO": ""
+		"FROM": "Desde",
+		"TO": "A"
 	},
 	"LOGIN": {
-		"EMAIL": "",
-		"FORGOT_PASSWORD": "",
-		"LOGIN": "",
-		"PASSWORD": ""
+		"EMAIL": "Correo",
+		"FORGOT_PASSWORD": "Olvidó la contraseña?",
+		"LOGIN": "Ingresar",
+		"PASSWORD": "Contraseña"
 	},
 	"NO-CONTENT": {
-		"HEADER": "",
-		"SUB-HEADER": ""
+		"HEADER": "Algo va mal aqui",
+		"SUB-HEADER": "La página que buscas, aquí yá no se encuentra. Clicar aquí para regresar (atras) o (a casa) al inicio"
 	},
 	"NO-RESULTS": {
-		"FOUND": "",
-		"MESSAGE": ""
+		"FOUND": "0 encontrado(s)",
+		"MESSAGE": "Lo sentimos. No se ha encontrado nada"
 	},
 	"PROFILE": {
-		"ACCOUNT_BALANCE_TRANSACTIONS": "",
+		"ACCOUNT_BALANCE_TRANSACTIONS": "Transacciones",
 		"CHANGE_EMAIL": "",
-		"CHANGE_PASSWORD": "",
-		"COINS_BALANCE": "",
-		"CREATE_DATE": "",
-		"DISPLAY_NAME": "",
-		"EMAIL_CONFIRMED": "",
-		"EXTERNAL_ACCOUNTS": "",
-		"FILENAME": "",
-		"NEW_PASSWORD": "",
-		"OLD_PASSWORD": "",
-		"PASSWORDS_NOT_SAME": "",
-		"RESEND_EMAIL_CONFIRMATION": "",
-		"SELECT_IMAGE": "",
-		"SUBMIT": "",
-		"USER_ROLES": ""
+		"CHANGE_PASSWORD": "Cambiar contraseña",
+		"COINS_BALANCE": "Balance",
+		"CREATE_DATE": "Fecha de creación",
+		"DISPLAY_NAME": "Sobrenombre",
+		"EMAIL_CONFIRMED": "Correo confirmado",
+		"EXTERNAL_ACCOUNTS": "Cuentas externas",
+		"FILENAME": "Nombre del archivo",
+		"NEW_PASSWORD": "Nueva contraseña",
+		"OLD_PASSWORD": "Contraseña anterior",
+		"PASSWORDS_NOT_SAME": "Las contraseñas no son identicas",
+		"RESEND_EMAIL_CONFIRMATION": "Confirmar correo nuevamente",
+		"SELECT_IMAGE": "Avatar",
+		"SUBMIT": "Guardar",
+		"USER_ROLES": "Roles"
 	},
 	"REGISTER": {
-		"DISPLAY_NAME": "",
-		"EMAIL": "",
-		"PASSWORD": "",
-		"REGISTER": ""
+		"DISPLAY_NAME": "Nombre a mostrar",
+		"EMAIL": "Correo",
+		"PASSWORD": "Contraseña",
+		"REGISTER": "Registrarse"
 	},
 	"RESET_PASSWORD": {
-		"SUBMIT": "",
-		"TITLE": ""
+		"SUBMIT": "Enviar",
+		"TITLE": "Cambiar contraseña"
 	},
 	"TRAINING": {
-		"CONFIRM_WORD": "",
-		"CREATE_DATE": "",
-		"DISABLE": "",
-		"ENABLE": "",
-		"IS_COMPLETED": "",
-		"LAST_TRAINING_DATE": "",
+		"CONFIRM_WORD": "Ingrese la palabra inicial: {{word}}",
+		"CREATE_DATE": "Fecha de creación",
+		"DISABLE": "Desactivar éste entrenamiento",
+		"ENABLE": "Activar éste entrenamiento",
+		"IS_COMPLETED": "Completado",
+		"LAST_TRAINING_DATE": "Fecha del entrenamiento anterior",
 		"LINK": {
-			"ACTIVE": "",
-			"ALL": "",
-			"COMPLETED": "",
-			"QUEUE": "",
-			"TRAIN": ""
+			"ACTIVE": "Activo",
+			"ALL": "Todo",
+			"COMPLETED": "Completado",
+			"QUEUE": "Pendiente",
+			"TRAIN": "Entrenar"
 		},
-		"NEXT_TRAINING_DATE": "",
-		"NOTE": "",
-		"NOTE_TOOLTIP": "",
-		"RANDOM_10_WORDS": "",
-		"SAVE_NOTE": "",
-		"WORD": ""
+		"NEXT_TRAINING_DATE": "Proxima fecha de entrenamiento",
+		"NOTE": "Nota",
+		"NOTE_TOOLTIP": "Clicar sobre la fila para ver su comentario",
+		"RANDOM_10_WORDS": "Clicar para agregar 10 palabras aleatorias de entrenamiento",
+		"SAVE_NOTE": "Guardar la nota",
+		"WORD": "Palabra"
 	},
 	"TRAINING_ACTIVE": {
-		"ACTIVE": "",
-		"DONT_REMEMBER": "",
-		"INACTIVE": "",
-		"NEXT_TRAINING": "",
-		"REMEMBER": ""
+		"ACTIVE": "Activo",
+		"DONT_REMEMBER": "No recuerdo",
+		"INACTIVE": "Inactivo",
+		"NEXT_TRAINING": "A la siguiente palabra",
+		"REMEMBER": "Si recuerdo"
 	},
 	"USERS": {
-		"NAME": "",
-		"NUMBER": ""
+		"NAME": "Nombre",
+		"NUMBER": "#"
 	},
 	"USERWORDS": {
-		"CREATE_DATE": "",
-		"FROM_LANGUAGE": "",
-		"TO_LANGUAGE": "",
-		"WORD": ""
+		"CREATE_DATE": "Fecha de creación",
+		"FROM_LANGUAGE": "Desde",
+		"TO_LANGUAGE": "A",
+		"WORD": "Palabra"
 	},
 	"WORD": {
 		"TAB": {
-			"EXAMPLES": "",
-			"IMAGES": "",
-			"INFO": "",
-			"MORE_TRANSLATIONS": "",
-			"NOTE": "",
-			"USER_IMAGES": ""
+			"EXAMPLES": "Ejemplos",
+			"IMAGES": "Imagenes (admin)",
+			"INFO": "Información",
+			"MORE_TRANSLATIONS": "Otros significados",
+			"NOTE": "Nomta",
+			"USER_IMAGES": "Imagenes"
 		}
 	},
 	"WORDS-LIST": {
 		"TABLE": {
-			"ACTIONS": "",
-			"ADD": "",
-			"IGNORE": "",
-			"LANGUAGE_FROM": "",
-			"LANGUAGE_TO": "",
-			"WORD": ""
+			"ACTIONS": "Acciones",
+			"ADD": "Agregar",
+			"IGNORE": "Ignorar",
+			"LANGUAGE_FROM": "Desde",
+			"LANGUAGE_TO": "A",
+			"WORD": "Palabra"
 		}
 	},
 	"WORDS": {
-		"CREATE_DATE": "",
-		"FROM_LANGUAGE": "",
-		"TO_LANGUAGE": "",
-		"WORD": ""
+		"CREATE_DATE": "Fecha de creación",
+		"FROM_LANGUAGE": "Desde",
+		"TO_LANGUAGE": "A",
+		"WORD": "Palabra"
 	},
 	"WORDS_LIST": {
-		"ADD_SELECTED_WORDS": "",
-		"ADD_WORDS": "",
-		"SUBMIT": ""
+		"ADD_SELECTED_WORDS": "Agregar las palabras seleccionadas",
+		"ADD_WORDS": "Agregar palabras",
+		"SUBMIT": "Procesar palabra"
 	}
 }
