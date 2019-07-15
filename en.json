@@ -179,8 +179,8 @@
 		"LEARN": "L|arn",
 		"LOGIN": "Login",
 		"REGISTER": "Register",
-		"USERS": "Users",
-		"WORDS": "Words",
+		"USERS": "Users in total",
+		"WORDS": "Words in total",
 		"WORDS_COMPLETED": "Words completed",
 		"WORDS_IN_QUEUE": "Words in queue",
 		"WORDS_WAITING_TRAINING": "Words are waiting for training"
