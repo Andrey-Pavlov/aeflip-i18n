@@ -186,8 +186,8 @@
 		"WORDS_WAITING_TRAINING": "Слов для тренировки"
 	},
 	"LANGUAGE_SELECTOR": {
-		"FROM": "C языка",
-		"TO": "На язык"
+		"FROM": "Я учу:",
+		"TO": "Мой язык:"
 	},
 	"LOGIN": {
 		"EMAIL": "Почта",

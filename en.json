@@ -186,8 +186,8 @@
 		"WORDS_WAITING_TRAINING": "Words are waiting for training"
 	},
 	"LANGUAGE_SELECTOR": {
-		"FROM": "From language",
-		"TO": "To language"
+		"FROM": "I learn:",
+		"TO": "My language:"
 	},
 	"LOGIN": {
 		"EMAIL": "Email",
