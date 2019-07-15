@@ -176,6 +176,11 @@
 	"LANDING": {
 		"ADD": "",
 		"DESCRIPTION": "",
+		"GUIDE": {
+			"DONT_REMEMBER": "",
+			"INTERVALS": "",
+			"REMEMBER": ""
+		},
 		"LEARN": "",
 		"LOGIN": "",
 		"REGISTER": "",

@@ -176,6 +176,11 @@
 	"LANDING": {
 		"ADD": "|dd",
 		"DESCRIPTION": "Finally, a centralized place to learn and train our foreign words",
+		"GUIDE": {
+			"DONT_REMEMBER": "\"Don't remember\" - a next repetition in the previous interval time",
+			"INTERVALS": "There are 9 time intervals: 2 min, 10 min, 1 h, 5 h, 1 d, 5 d, 25 d, 4 months, 2 years",
+			"REMEMBER": "\"Remember\" - a next repetition in the next interval time"
+		},
 		"LEARN": "L|arn",
 		"LOGIN": "Login",
 		"REGISTER": "Register",
