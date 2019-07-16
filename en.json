@@ -206,6 +206,13 @@
 		"FOUND": "0 results found",
 		"MESSAGE": "Sorry! We couldn't find any results."
 	},
+	"PAGINATOR": {
+		"FIRST_PAGE": "First page",
+		"ITEMS_PER_PAGE": "Items per page",
+		"LAST_PAGE": "Last page",
+		"NEXT_PAGE": "Next page",
+		"PREVIOUS_PAGE": "Previous page"
+	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "Transactions",
 		"CHANGE_EMAIL": "Please, contact us if you want to change your email address. For now, it's not possible to do on the page.",

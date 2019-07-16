@@ -206,6 +206,13 @@
 		"FOUND": "",
 		"MESSAGE": ""
 	},
+	"PAGINATOR": {
+		"FIRST_PAGE": "",
+		"ITEMS_PER_PAGE": "",
+		"LAST_PAGE": "",
+		"NEXT_PAGE": "",
+		"PREVIOUS_PAGE": ""
+	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "",
 		"CHANGE_EMAIL": "",
