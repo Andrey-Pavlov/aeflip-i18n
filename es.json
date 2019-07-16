@@ -115,7 +115,6 @@
 		"DISCORD": "Discord",
 		"EMAIL": "",
 		"PROGRAMMER": "",
-		"QA": "",
 		"TELEGRAM": ""
 	},
 	"FAQ": {
@@ -176,14 +175,13 @@
 	"LANDING": {
 		"ADD": "",
 		"DESCRIPTION": "",
-		"GUIDE": {
-			"DONT_REMEMBER": "",
-			"INTERVALS": "",
-			"REMEMBER": ""
-		},
 		"LEARN": "",
 		"LOGIN": "",
 		"REGISTER": "",
+		"STATISTICS": {
+			"GLOBAL": "",
+			"PERSONAL": ""
+		},
 		"USERS": "",
 		"WORDS": "",
 		"WORDS_COMPLETED": "",
