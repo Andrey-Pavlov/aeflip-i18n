@@ -76,7 +76,10 @@
 		"ADMIN": "",
 		"CARDS": "",
 		"COMMENTS_LINK": "",
-		"EMAIL": "",
+		"EMAIL": {
+			"CHECK_SPAM": "",
+			"TITLE": ""
+		},
 		"FEEDBACK": "",
 		"LANGUAGE_SELECT": "",
 		"LOGIN": "",
