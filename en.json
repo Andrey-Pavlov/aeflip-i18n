@@ -118,7 +118,6 @@
 		"DISCORD": "Discord",
 		"EMAIL": "Email",
 		"PROGRAMMER": "Author",
-		"QA": "QA",
 		"TELEGRAM": "Telegram"
 	},
 	"FAQ": {
@@ -182,6 +181,10 @@
 		"LEARN": "L|arn",
 		"LOGIN": "Login",
 		"REGISTER": "Register",
+		"STATISTICS": {
+			"GLOBAL": "Global statistics",
+			"PERSONAL": "Personal statistics"
+		},
 		"USERS": "Users in total",
 		"WORDS": "Words in total",
 		"WORDS_COMPLETED": "Words completed",
@@ -205,6 +208,13 @@
 	"NO-RESULTS": {
 		"FOUND": "0 results found",
 		"MESSAGE": "Sorry! We couldn't find any results."
+	},
+	"PAGINATOR": {
+		"FIRST_PAGE": "First page",
+		"ITEMS_PER_PAGE": "Items per page",
+		"LAST_PAGE": "Last page",
+		"NEXT_PAGE": "Next page",
+		"PREVIOUS_PAGE": "Previous page"
 	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "Transactions",

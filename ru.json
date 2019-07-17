@@ -118,7 +118,6 @@
 		"DISCORD": "Discord",
 		"EMAIL": "Почта",
 		"PROGRAMMER": "Автор",
-		"QA": "Тестирование",
 		"TELEGRAM": "Телеграм"
 	},
 	"FAQ": {
@@ -182,6 +181,10 @@
 		"LEARN": "Тр|нируй",
 		"LOGIN": "Войти",
 		"REGISTER": "Зарегистрироваться",
+		"STATISTICS": {
+			"GLOBAL": "Глобальная статистика",
+			"PERSONAL": "Персональная статистика"
+		},
 		"USERS": "Пользователей всего",
 		"WORDS": "Слов всего",
 		"WORDS_COMPLETED": "Выученных слов",
@@ -205,6 +208,13 @@
 	"NO-RESULTS": {
 		"FOUND": "0 найдено",
 		"MESSAGE": "Извините! Мы ничего не нашли."
+	},
+	"PAGINATOR": {
+		"FIRST_PAGE": "Первая страница",
+		"ITEMS_PER_PAGE": "Строк на страницу",
+		"LAST_PAGE": "Последняя страница",
+		"NEXT_PAGE": "Следующая страница",
+		"PREVIOUS_PAGE": "Предыдущая страница"
 	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "Транзакции",

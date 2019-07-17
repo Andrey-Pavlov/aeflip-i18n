@@ -118,7 +118,6 @@
 		"DISCORD": "Discord",
 		"EMAIL": "",
 		"PROGRAMMER": "",
-		"QA": "",
 		"TELEGRAM": ""
 	},
 	"FAQ": {
@@ -182,6 +181,10 @@
 		"LEARN": "",
 		"LOGIN": "",
 		"REGISTER": "",
+		"STATISTICS": {
+			"GLOBAL": "",
+			"PERSONAL": ""
+		},
 		"USERS": "",
 		"WORDS": "",
 		"WORDS_COMPLETED": "",
@@ -205,6 +208,13 @@
 	"NO-RESULTS": {
 		"FOUND": "",
 		"MESSAGE": ""
+	},
+	"PAGINATOR": {
+		"FIRST_PAGE": "",
+		"ITEMS_PER_PAGE": "",
+		"LAST_PAGE": "",
+		"NEXT_PAGE": "",
+		"PREVIOUS_PAGE": ""
 	},
 	"PROFILE": {
 		"ACCOUNT_BALANCE_TRANSACTIONS": "",
