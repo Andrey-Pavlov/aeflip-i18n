@@ -76,7 +76,10 @@
 		"ADMIN": "",
 		"CARDS": "",
 		"COMMENTS_LINK": "",
-		"EMAIL": "",
+		"EMAIL": {
+			"CHECK_SPAM": "",
+			"TITLE": ""
+		},
 		"FEEDBACK": "",
 		"LANGUAGE_SELECT": "",
 		"LOGIN": "",
@@ -175,6 +178,13 @@
 	"LANDING": {
 		"ADD": "",
 		"DESCRIPTION": "",
+		"GUIDE": {
+			"DONT_REMEMBER": "",
+			"FULLY_SUPPORTED_LANGUAGES": "",
+			"INTERVALS": "",
+			"PARTIALLY_SUPPORTED_LANGUAGES": "",
+			"REMEMBER": ""
+		},
 		"LEARN": "",
 		"LOGIN": "",
 		"REGISTER": "",
