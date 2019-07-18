@@ -178,6 +178,13 @@
 	"LANDING": {
 		"ADD": "",
 		"DESCRIPTION": "",
+		"GUIDE": {
+			"DONT_REMEMBER": "",
+			"FULLY_SUPPORTED_LANGUAGES": "",
+			"INTERVALS": "",
+			"PARTIALLY_SUPPORTED_LANGUAGES": "",
+			"REMEMBER": ""
+		},
 		"LEARN": "",
 		"LOGIN": "",
 		"REGISTER": "",

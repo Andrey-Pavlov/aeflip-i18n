@@ -178,6 +178,13 @@
 	"LANDING": {
 		"ADD": "|dd",
 		"DESCRIPTION": "Finally, a centralized place to learn and train our foreign words",
+		"GUIDE": {
+			"DONT_REMEMBER": "\"Don't remember\" button - a next repetition in the previous interval time",
+			"FULLY_SUPPORTED_LANGUAGES": "A dictionary definition for a word for the next languages: : Arabic, Brazilian, Chinese, Czech, Dutch, English, French, German, Hindi, Italian, Japanese, Korean, Russian, Slovak, Turkish, Spanish",
+			"INTERVALS": "There are 9 time repetition intervals: 2 min, 10 min, 1 hour, 5 hours, 1 day, 5 days, 25 days, 4 months, 2 years",
+			"PARTIALLY_SUPPORTED_LANGUAGES": "Translation only for the rest languages",
+			"REMEMBER": "\"Remember\" button - a next repetition in the next interval time"
+		},
 		"LEARN": "L|arn",
 		"LOGIN": "Login",
 		"REGISTER": "Register",
