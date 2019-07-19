@@ -77,8 +77,8 @@
 		"CARDS": "Карты",
 		"COMMENTS_LINK": "Все комментарии",
 		"EMAIL": {
-			"CHECK_SPAM": "",
-			"TITLE": ""
+			"CHECK_SPAM": "Не забудьте проверить папку со спамом",
+			"TITLE": "Почта"
 		},
 		"FEEDBACK": "ОТЗЫВ",
 		"LANGUAGE_SELECT": "Язык приложения",

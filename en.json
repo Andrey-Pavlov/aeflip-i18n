@@ -77,8 +77,8 @@
 		"CARDS": "Cards",
 		"COMMENTS_LINK": "Comments",
 		"EMAIL": {
-			"CHECK_SPAM": "",
-			"TITLE": ""
+			"CHECK_SPAM": "Don't forget to check a spam folder",
+			"TITLE": "Email"
 		},
 		"FEEDBACK": "FEEDBACK",
 		"LANGUAGE_SELECT": "Language",
