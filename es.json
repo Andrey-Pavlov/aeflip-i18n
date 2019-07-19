@@ -275,11 +275,18 @@
 	"TRAINING_ACTIVE": {
 		"ACTIVE": "",
 		"DONT_REMEMBER": "",
-		"INACTIVE": "",
 		"NEXT_TRAINING": "",
 		"REMEMBER": ""
 	},
+	"USER": {
+		"DELETE": ""
+	},
 	"USERS": {
+		"ACTIONS": {
+			"DELETE": "",
+			"TITLE": ""
+		},
+		"EMAIL": "",
 		"NAME": "",
 		"NUMBER": ""
 	},
