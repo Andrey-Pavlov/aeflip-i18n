@@ -275,7 +275,6 @@
 	"TRAINING_ACTIVE": {
 		"ACTIVE": "Active",
 		"DONT_REMEMBER": "DON'T REMEMBER",
-		"INACTIVE": "Inactive",
 		"NEXT_TRAINING": "Next training",
 		"REMEMBER": "REMEMBER"
 	},

@@ -275,7 +275,6 @@
 	"TRAINING_ACTIVE": {
 		"ACTIVE": "Неактивно",
 		"DONT_REMEMBER": "НЕ ПОМНЮ",
-		"INACTIVE": "Активно",
 		"NEXT_TRAINING": "К следующему слову",
 		"REMEMBER": "ПОМНЮ"
 	},
