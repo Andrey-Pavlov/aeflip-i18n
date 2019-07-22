@@ -278,7 +278,15 @@
 		"NEXT_TRAINING": "Next training",
 		"REMEMBER": "REMEMBER"
 	},
+	"USER": {
+		"DELETE": "Remove the user"
+	},
 	"USERS": {
+		"ACTIONS": {
+			"DELETE": "Delete",
+			"TITLE": "Actions"
+		},
+		"EMAIL": "Email",
 		"NAME": "Name",
 		"NUMBER": "No."
 	},

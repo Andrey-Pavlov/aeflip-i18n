@@ -278,7 +278,15 @@
 		"NEXT_TRAINING": "",
 		"REMEMBER": ""
 	},
+	"USER": {
+		"DELETE": ""
+	},
 	"USERS": {
+		"ACTIONS": {
+			"DELETE": "",
+			"TITLE": ""
+		},
+		"EMAIL": "",
 		"NAME": "",
 		"NUMBER": ""
 	},
