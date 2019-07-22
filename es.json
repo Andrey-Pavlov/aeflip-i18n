@@ -58,8 +58,8 @@
 	"ADD_CARD_IMAGE": {
 		"CANCEL": "",
 		"DELETE": "",
-		"EDIT": "",
 		"IMAGE_URL": "",
+		"IMG_TOOLTIP": "",
 		"INVALID_IMAGE_FORMAT": "",
 		"SAVE": "",
 		"URL_REQUIRED": ""

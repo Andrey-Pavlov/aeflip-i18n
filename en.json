@@ -58,8 +58,8 @@
 	"ADD_CARD_IMAGE": {
 		"CANCEL": "Cancel",
 		"DELETE": "Delete",
-		"EDIT": "Edit",
 		"IMAGE_URL": "Image url",
+		"IMG_TOOLTIP": "Click to make it default",
 		"INVALID_IMAGE_FORMAT": "Incorrect URL address",
 		"SAVE": "Save",
 		"URL_REQUIRED": "Url is required"

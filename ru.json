@@ -58,8 +58,8 @@
 	"ADD_CARD_IMAGE": {
 		"CANCEL": "Отменить",
 		"DELETE": "Удалить",
-		"EDIT": "Изменить",
 		"IMAGE_URL": "URL изображения",
+		"IMG_TOOLTIP": "Кликните чтобы сделать по-умолчанию",
 		"INVALID_IMAGE_FORMAT": "Неправильный URL картинки",
 		"SAVE": "Сохранить",
 		"URL_REQUIRED": "URL обязательна"
