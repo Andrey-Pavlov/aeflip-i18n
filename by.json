@@ -78,7 +78,8 @@
 		"COMMENTS_LINK": "",
 		"EMAIL": {
 			"CHECK_SPAM": "",
-			"TITLE": ""
+			"TITLE": "",
+			"TOO_MANY_REQUESTS": ""
 		},
 		"FEEDBACK": "",
 		"LANGUAGE_SELECT": "",
