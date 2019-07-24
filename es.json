@@ -12,7 +12,8 @@
 			"FEATURES_7": "",
 			"FEATURES_8": "",
 			"FEATURES_9": "",
-			"PIMSLEUR": ""
+			"PIMSLEUR": "",
+			"PIMSLEUR_LINK": ""
 		},
 		"FEEDBACK": "",
 		"IN_DEVELOPMENT": {
@@ -256,7 +257,6 @@
 		"CREATE_DATE": "",
 		"DISABLE": "",
 		"ENABLE": "",
-		"IS_COMPLETED": "",
 		"LAST_TRAINING_DATE": "",
 		"LINK": {
 			"ACTIVE": "",
