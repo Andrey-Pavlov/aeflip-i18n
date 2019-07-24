@@ -273,7 +273,7 @@
 		"WORD": "Слово"
 	},
 	"TRAINING_ACTIVE": {
-		"ACTIVE": "Неактивно",
+		"ACTIVE": "Активно",
 		"DONT_REMEMBER": "НЕ ПОМНЮ",
 		"NEXT_TRAINING": "К следующему слову",
 		"REMEMBER": "ПОМНЮ"
