@@ -237,7 +237,7 @@
 		"NEW_PASSWORD": "New password",
 		"OLD_PASSWORD": "Old password",
 		"PASSWORDS_NOT_SAME": "Passwords aren't the same",
-		"RESEND_EMAIL_CONFIRMATION": "Re-send email confirmation link",
+		"RESEND_EMAIL_CONFIRMATION": "Re-send email",
 		"SELECT_IMAGE": "Avatar",
 		"SUBMIT": "Save",
 		"USER_ROLES": "User roles"
