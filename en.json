@@ -73,12 +73,12 @@
 	},
 	"APP": {
 		"ADD_WORDS": "Add words",
-		"ADMIN": "Administrator",
 		"CARDS": "Cards",
 		"COMMENTS_LINK": "Comments",
 		"EMAIL": {
 			"CHECK_SPAM": "Don't forget to check your spam folder",
-			"TITLE": "Email"
+			"TITLE": "Email",
+			"TOO_MANY_REQUESTS": "Too many email requests. Please, try in 2 minutes."
 		},
 		"FEEDBACK": "FEEDBACK",
 		"LANGUAGE_SELECT": "Language",
