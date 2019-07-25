@@ -53,7 +53,7 @@
 		},
 		"TITLE": {
 			"NAME": "aeflip.com",
-			"TEXT": "is a single global platform to learn and train a foreign language vocabulary through interval repetitions."
+			"TEXT": "is a single global platform to learn and practice a foreign language vocabulary through interval repetitions."
 		}
 	},
 	"ADD_CARD_IMAGE": {
@@ -178,13 +178,13 @@
 	},
 	"LANDING": {
 		"ADD": "|dd",
-		"DESCRIPTION": "Finally, a centralized place to learn and train our foreign words",
+		"DESCRIPTION": "Finally, a centralized place to learn and practice our foreign words",
 		"GUIDE": {
-			"DONT_REMEMBER": "\"Don't remember\" button - a next repetition in the previous interval time",
-			"FULLY_SUPPORTED_LANGUAGES": "A dictionary definition for a word for the next languages: : Arabic, Brazilian, Chinese, Czech, Dutch, English, French, German, Hindi, Italian, Japanese, Korean, Russian, Slovak, Turkish, Spanish",
+			"DONT_REMEMBER": "\"Don't remember\" button - next repetition will occur within the longer interval time",
+			"FULLY_SUPPORTED_LANGUAGES": "A dictionary definition for a word for the following languages: : Arabic, Brazilian, Chinese, Czech, Dutch, English, French, German, Hindi, Italian, Japanese, Korean, Russian, Slovak, Turkish, Spanish",
 			"INTERVALS": "There are 9 time repetition intervals: 2 min, 10 min, 1 hour, 5 hours, 1 day, 5 days, 25 days, 4 months, 2 years",
-			"PARTIALLY_SUPPORTED_LANGUAGES": "Translation only for the rest languages",
-			"REMEMBER": "\"Remember\" button - a next repetition in the next interval time"
+			"PARTIALLY_SUPPORTED_LANGUAGES": "Translation only for other languages",
+			"REMEMBER": "\"Remember\" button - next repetition will occur within the shorter interval time"
 		},
 		"LEARN": "L|arn",
 		"LOGIN": "Login",
