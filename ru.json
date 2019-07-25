@@ -12,7 +12,8 @@
 			"FEATURES_7": "предзагруженные изображения для слов",
 			"FEATURES_8": "добавление персональных изображений",
 			"FEATURES_9": "общение через комментарии для каждой страницы, Telegram и Discord",
-			"PIMSLEUR": "https://en.wikipedia.org/wiki/Spaced_repetition"
+			"PIMSLEUR": "wiki страница",
+			"PIMSLEUR_LINK": "https://en.wikipedia.org/wiki/Spaced_repetition"
 		},
 		"FEEDBACK": "Если есть вопросы и предложения, пишите в телеграм, дискорд, комментарии (да, мы их читаем)",
 		"IN_DEVELOPMENT": {
@@ -256,7 +257,6 @@
 		"CREATE_DATE": "Дата создания",
 		"DISABLE": "Выключить эту тренировку",
 		"ENABLE": "Включить эту тренировку",
-		"IS_COMPLETED": "Завершено",
 		"LAST_TRAINING_DATE": "Дата прошлой тренировки",
 		"LINK": {
 			"ACTIVE": "Активно",

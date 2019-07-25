@@ -12,7 +12,8 @@
 			"FEATURES_7": "preloaded images for words",
 			"FEATURES_8": "add any personal images",
 			"FEATURES_9": "communication through comments is available on each page, Telegram and Discord",
-			"PIMSLEUR": "https://en.wikipedia.org/wiki/Spaced_repetition"
+			"PIMSLEUR": "wiki page",
+			"PIMSLEUR_LINK": "https://en.wikipedia.org/wiki/Spaced_repetition"
 		},
 		"FEEDBACK": "If you have any questions and suggestions, please write to telegram, discord, comments (yes, we read them)",
 		"IN_DEVELOPMENT": {
@@ -236,7 +237,7 @@
 		"NEW_PASSWORD": "New password",
 		"OLD_PASSWORD": "Old password",
 		"PASSWORDS_NOT_SAME": "Passwords aren't the same",
-		"RESEND_EMAIL_CONFIRMATION": "Re-send email confirmation link",
+		"RESEND_EMAIL_CONFIRMATION": "Re-send email",
 		"SELECT_IMAGE": "Avatar",
 		"SUBMIT": "Save",
 		"USER_ROLES": "User roles"
@@ -256,7 +257,6 @@
 		"CREATE_DATE": "Creation date",
 		"DISABLE": "Disable this training",
 		"ENABLE": "Enable this training",
-		"IS_COMPLETED": "Completed",
 		"LAST_TRAINING_DATE": "Last training date",
 		"LINK": {
 			"ACTIVE": "Active",
