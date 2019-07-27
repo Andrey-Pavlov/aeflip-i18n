@@ -82,6 +82,7 @@
 			"TOO_MANY_REQUESTS": "Too many email requests. Please, try in 2 minutes."
 		},
 		"FEEDBACK": "FEEDBACK",
+		"GOOGLE_SIGNIN": "Sign in with Google",
 		"LANGUAGE_SELECT": "Language",
 		"LOGIN": "Login",
 		"LOGOUT": "Logout",

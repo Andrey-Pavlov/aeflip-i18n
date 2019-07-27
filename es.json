@@ -82,6 +82,7 @@
 			"TOO_MANY_REQUESTS": ""
 		},
 		"FEEDBACK": "",
+		"GOOGLE_SIGNIN": "",
 		"LANGUAGE_SELECT": "",
 		"LOGIN": "",
 		"LOGOUT": "",
