@@ -57,7 +57,6 @@
 		}
 	},
 	"ADD_CARD_IMAGE": {
-		"CANCEL": "Cancel",
 		"DELETE": "Delete",
 		"IMAGE_URL": "Image url",
 		"IMG_TOOLTIP": "Click to make it default",
@@ -189,7 +188,6 @@
 		},
 		"LEARN": "L|arn",
 		"LOGIN": "Login",
-		"REGISTER": "Register",
 		"STATISTICS": {
 			"GLOBAL": "Global statistics",
 			"PERSONAL": "Personal statistics"
@@ -305,6 +303,9 @@
 			"MORE_TRANSLATIONS": "More translations",
 			"NOTE": "Note",
 			"USER_IMAGES": "User Images"
+		},
+		"USER": {
+			"ADD_IMAGE": "Add/select an image"
 		}
 	},
 	"WORDS-LIST": {

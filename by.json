@@ -57,7 +57,6 @@
 		}
 	},
 	"ADD_CARD_IMAGE": {
-		"CANCEL": "",
 		"DELETE": "",
 		"IMAGE_URL": "",
 		"IMG_TOOLTIP": "",
@@ -189,7 +188,6 @@
 		},
 		"LEARN": "",
 		"LOGIN": "",
-		"REGISTER": "",
 		"STATISTICS": {
 			"GLOBAL": "",
 			"PERSONAL": ""
@@ -305,6 +303,9 @@
 			"MORE_TRANSLATIONS": "",
 			"NOTE": "",
 			"USER_IMAGES": ""
+		},
+		"USER": {
+			"ADD_IMAGE": ""
 		}
 	},
 	"WORDS-LIST": {
