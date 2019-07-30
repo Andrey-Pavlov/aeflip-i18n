@@ -303,11 +303,11 @@
 	"WORD": {
 		"TAB": {
 			"EXAMPLES": "Examples",
-			"IMAGES": "Default Images",
+			"IMAGES": "Images",
 			"INFO": "Info",
 			"MORE_TRANSLATIONS": "More translations",
 			"NOTE": "Note",
-			"USER_IMAGES": "User Images"
+			"USER_IMAGES": "My images"
 		},
 		"USER": {
 			"ADD_IMAGE": "Add/select an image"
