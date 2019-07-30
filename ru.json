@@ -57,7 +57,6 @@
 		}
 	},
 	"ADD_CARD_IMAGE": {
-		"CANCEL": "Отменить",
 		"DELETE": "Удалить",
 		"IMAGE_URL": "URL изображения",
 		"IMG_TOOLTIP": "Кликните чтобы сделать по-умолчанию",
@@ -66,11 +65,16 @@
 		"URL_REQUIRED": "URL обязательна"
 	},
 	"ADMIN_COMMENTS": {
-		"ACTIONS": "Действия",
+		"ACTIONS": {
+			"APPROVE": "Одобрить",
+			"DELETE": "Удалить"
+		},
 		"CREATED_BY": "Автор",
 		"CREATE_DATE": "Дата",
 		"ID": "№",
-		"MESSAGE": "Сообщение"
+		"MESSAGE": "Сообщение",
+		"PAGE_ID": "Страница",
+		"PARENT_ID": "Родительский ID"
 	},
 	"APP": {
 		"ADD_WORDS": "Добавить слова",
@@ -189,7 +193,6 @@
 		},
 		"LEARN": "Тр|нируй",
 		"LOGIN": "Войти",
-		"REGISTER": "Зарегистрироваться",
 		"STATISTICS": {
 			"GLOBAL": "Глобальная статистика",
 			"PERSONAL": "Персональная статистика"
@@ -305,6 +308,9 @@
 			"MORE_TRANSLATIONS": "Другие значения",
 			"NOTE": "Заметка",
 			"USER_IMAGES": "Изображения"
+		},
+		"USER": {
+			"ADD_IMAGE": ""
 		}
 	},
 	"WORDS-LIST": {

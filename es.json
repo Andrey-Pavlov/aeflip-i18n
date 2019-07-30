@@ -57,7 +57,6 @@
 		}
 	},
 	"ADD_CARD_IMAGE": {
-		"CANCEL": "",
 		"DELETE": "",
 		"IMAGE_URL": "",
 		"IMG_TOOLTIP": "",
@@ -66,11 +65,16 @@
 		"URL_REQUIRED": ""
 	},
 	"ADMIN_COMMENTS": {
-		"ACTIONS": "",
+		"ACTIONS": {
+			"APPROVE": "",
+			"DELETE": ""
+		},
 		"CREATED_BY": "",
 		"CREATE_DATE": "",
 		"ID": "",
-		"MESSAGE": ""
+		"MESSAGE": "",
+		"PAGE_ID": "",
+		"PARENT_ID": ""
 	},
 	"APP": {
 		"ADD_WORDS": "",
@@ -189,7 +193,6 @@
 		},
 		"LEARN": "",
 		"LOGIN": "",
-		"REGISTER": "",
 		"STATISTICS": {
 			"GLOBAL": "",
 			"PERSONAL": ""
@@ -305,6 +308,9 @@
 			"MORE_TRANSLATIONS": "",
 			"NOTE": "",
 			"USER_IMAGES": ""
+		},
+		"USER": {
+			"ADD_IMAGE": ""
 		}
 	},
 	"WORDS-LIST": {
