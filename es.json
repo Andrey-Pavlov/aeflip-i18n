@@ -65,11 +65,16 @@
 		"URL_REQUIRED": ""
 	},
 	"ADMIN_COMMENTS": {
-		"ACTIONS": "",
+		"ACTIONS": {
+			"APPROVE": "",
+			"DELETE": ""
+		},
 		"CREATED_BY": "",
 		"CREATE_DATE": "",
 		"ID": "",
-		"MESSAGE": ""
+		"MESSAGE": "",
+		"PAGE_ID": "",
+		"PARENT_ID": ""
 	},
 	"APP": {
 		"ADD_WORDS": "",
@@ -182,6 +187,7 @@
 		"GUIDE": {
 			"DONT_REMEMBER": "",
 			"FULLY_SUPPORTED_LANGUAGES": "",
+			"FULLY_SUPPORTED_LANGUAGES_LABEL": "",
 			"INTERVALS": "",
 			"PARTIALLY_SUPPORTED_LANGUAGES": "",
 			"REMEMBER": ""

@@ -2,7 +2,7 @@
 	"ABOUT": {
 		"FEATURES": {
 			"DESCRIPTION": "Features:",
-			"FEATURES_1": "translation of the word, its audio pronunciation and definition in 16 languages: Arabic, Brazilian, Chinese, Czech, Dutch, English, French, German, Hindi, Italian, Japanese, Korean, Russian, Slovak, Turkish, Spanish",
+			"FEATURES_1": "translation of the word, its audio pronunciation and definition in 16 languages:",
 			"FEATURES_10": "direct feedback with the developers",
 			"FEATURES_2": "the system supports only translations for other languages",
 			"FEATURES_3": "cross-training: german-spanish, hindi-chinese and etc",
@@ -65,11 +65,16 @@
 		"URL_REQUIRED": "Url is required"
 	},
 	"ADMIN_COMMENTS": {
-		"ACTIONS": "Actions",
+		"ACTIONS": {
+			"APPROVE": "",
+			"DELETE": ""
+		},
 		"CREATED_BY": "Author",
 		"CREATE_DATE": "Create date",
 		"ID": "Id",
-		"MESSAGE": "Message"
+		"MESSAGE": "Message",
+		"PAGE_ID": "",
+		"PARENT_ID": ""
 	},
 	"APP": {
 		"ADD_WORDS": "Add words",
@@ -181,7 +186,8 @@
 		"DESCRIPTION": "Finally, a centralized place to learn and practice our foreign words",
 		"GUIDE": {
 			"DONT_REMEMBER": "\"Don't remember\" button - next repetition will occur within the longer interval time",
-			"FULLY_SUPPORTED_LANGUAGES": "A dictionary definition for a word for the following languages: : Arabic, Brazilian, Chinese, Czech, Dutch, English, French, German, Hindi, Italian, Japanese, Korean, Russian, Slovak, Turkish, Spanish",
+			"FULLY_SUPPORTED_LANGUAGES": "Arabic, Brazilian, Chinese, Czech, Dutch, English, French, German, Hindi, Italian, Japanese, Korean, Russian, Slovak, Turkish, Spanish",
+			"FULLY_SUPPORTED_LANGUAGES_LABEL": "A dictionary definition for a word for the following languages:",
 			"INTERVALS": "There are 9 time repetition intervals: 2 min, 10 min, 1 hour, 5 hours, 1 day, 5 days, 25 days, 4 months, 2 years",
 			"PARTIALLY_SUPPORTED_LANGUAGES": "Translation only for other languages",
 			"REMEMBER": "\"Remember\" button - next repetition will occur within the shorter interval time"
