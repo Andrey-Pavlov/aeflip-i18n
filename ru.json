@@ -66,15 +66,15 @@
 	},
 	"ADMIN_COMMENTS": {
 		"ACTIONS": {
-			"APPROVE": "",
-			"DELETE": ""
+			"APPROVE": "Одобрить",
+			"DELETE": "Удалить"
 		},
 		"CREATED_BY": "Автор",
 		"CREATE_DATE": "Дата",
 		"ID": "№",
 		"MESSAGE": "Сообщение",
-		"PAGE_ID": "",
-		"PARENT_ID": ""
+		"PAGE_ID": "Страница",
+		"PARENT_ID": "Родительский ID"
 	},
 	"APP": {
 		"ADD_WORDS": "Добавить слова",
@@ -304,11 +304,11 @@
 	"WORD": {
 		"TAB": {
 			"EXAMPLES": "Примеры",
-			"IMAGES": "Изображения (Админ)",
+			"IMAGES": "Изображения",
 			"INFO": "Информация",
 			"MORE_TRANSLATIONS": "Другие значения",
 			"NOTE": "Заметка",
-			"USER_IMAGES": "Изображения"
+			"USER_IMAGES": "Мои изображения"
 		},
 		"USER": {
 			"ADD_IMAGE": "Добавить/выбрать изображение"
